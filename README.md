@@ -1,9 +1,7 @@
 # VideoThursday
 
-* WebAssembly's Post-MVP Future - Lin Clark & Till Schneidereit | JSHeroes 2019 https://youtu.be/ZZ3uj-2H6-w?list=WL
-* MoscowJS 41 - Опыт использования WebRTC – Григорий Кузнецов https://youtu.be/gQlQwG4vn28?list=WL
 
----
+### Voted
 
 * Виктор Грищенко — Децентрализованный веб https://youtu.be/lROd9NUBP5Q?list=WL
 * 08. Houdini CSS, который JavaScript – Никита Дубко https://youtu.be/yyVU-r9sRw8?list=WL
@@ -11,6 +9,8 @@
 * Андрей Мелихов — Node.js в энтерпрайзе: почему и как https://youtu.be/MPQ92gxEKlE?list=WL
 
 ---
+
+### Pool
 
 * CRDTs and the Quest for Distributed Consistency https://youtu.be/B5NULPSiOGw?list=PLjIz47fNzNQQXSPPRdeiUyReQ25Rhe9LK
 * Building decentralised apps with JS / Михаил Кузнецов (ING) https://youtu.be/HLsbP2UXb8Q?list=WL
@@ -25,21 +25,23 @@
 
 ---
 
+### Hold
+
 * Future JavaScript: what is still missing? | Dr. Axel Rauschmayer https://youtu.be/XYAgmj527PU?list=WL
 * PiterJS #21 - Илья Кашлаков - Рефакторинг платежного процесса Яндекс.Денег https://youtu.be/-wM-JmF1-VM?list=WL
 
 
-# Docker 
+### Docker 
 * Containerizing Angular with Docker  - https://www.youtube.com/watch?v=cLT7eUWKZpg
 * Optimize and Deploy Your Angular App - https://www.youtube.com/watch?v=FOdetrZCsmU&list=LLvIgD6w0x5QK5e23xDw3IEQ&t=0s&index=22
 
 
-# ng-conf
+### ng-conf
 * RxJS Advanced Patterns – Operate Heavily Dynamic UI’s | Michael Hladky https://youtu.be/XKfhGntZROQ
 * Angular and CSS Grid: Get ready to fall in love | Bill Odom https://youtu.be/lh6n0JxXD_g
 
 
-# JavaScript
+### JavaScript
 * Profiling Paint Perf  - https://youtu.be/Wfxm56ttAmE https://youtu.be/W4zp79QyDXA
 * Знай свой JIT: ближе к машине / Андрей Мелихов - https://www.youtube.com/watch?v=cgquEDC0Ko4
 * Алексей Козятинский — Отладка JS на примере Chrome DevTools - https://www.youtube.com/watch?v=kBHUEFYawTk&t=0s&list=WL&index=141
@@ -53,7 +55,7 @@
 * Building decentralised apps with JS / Михаил Кузнецов (ING) https://youtu.be/HLsbP2UXb8Q
 
 
-# V8
+### V8
 * JavaScript Engines: The Good Parts™ - Mathias Bynens & Benedikt Meurer - JSConf EU 2018 https://www.youtube.com/watch?v=5nmpokoRaZI 
 * A Tale of Types, Classes, and Maps by Benedikt Meurer · JSCamp Barcelona 2018 https://youtu.be/IFWulQnM5E0
 * Jake Archibald: In The Loop - JSConf.Asia 2018 - https://www.youtube.com/watch?v=cCOL7MC4Pl0
@@ -63,7 +65,7 @@
 
 
 
-# HTML/CSS
+### HTML/CSS
 * Ответ на главный вопрос в CSS, Михаил Иванкив - https://www.youtube.com/watch?v=cO2-zYzjyD0
 * Посторонние шрифты — HTML Шорты - https://www.youtube.com/watch?v=MTQ9FpT3ayc
 * Какие нужны фавиконки — HTML Шорты - https://youtu.be/iG9WF8Vpog
@@ -152,3 +154,5 @@
 * Роман Дворнов — Каталог компонентов: переосмысление https://youtu.be/zZUbXAVV-HA?list=WL
 * Куда растут библиотеки компонентов | Тим Чаптыков, VK | SPA Meetup #5 https://youtu.be/1utWz-CYiLU
 * Платформенная команда: пособие по применению | Александр Казаченко, Тинькофф | SPA Meetup #5 https://youtu.be/Y61bQAfgW70
+* WebAssembly's Post-MVP Future - Lin Clark & Till Schneidereit | JSHeroes 2019 https://youtu.be/ZZ3uj-2H6-w?list=WL
+* MoscowJS 41 - Опыт использования WebRTC – Григорий Кузнецов https://youtu.be/gQlQwG4vn28?list=WL
