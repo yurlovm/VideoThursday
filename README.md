@@ -1,8 +1,15 @@
 # VideoThursday
 
+* How we make Angular fast | Miško Hevery  https://www.youtube.com/watch?v=EqSRpkMRyY4
+* The secrets behind Angular’s lightning speed | Max Koretskyi https://youtu.be/nQ8oJ1rpwIc
+* Deep Dive into the Angular Compiler | Alex Rickabaugh https://youtu.be/anphffaCZrQ
+* How Angular works | Kara Erickson https://youtu.be/S0o-4yc2n-8
+* Building with Ivy: rethinking reactive Angular | Mike Ryan https://youtu.be/rz-rcaGXhGk
+* Angular and the OWASP top 10 | Philippe De Ryck https://youtu.be/jc0YYLLEol0
+
+
 
 ### Voted
-
 * Виктор Грищенко — Децентрализованный веб https://youtu.be/lROd9NUBP5Q?list=WL
 * 08. Houdini CSS, который JavaScript – Никита Дубко https://youtu.be/yyVU-r9sRw8?list=WL
 * State of Houdini (Chrome Dev Summit 2018) https://youtu.be/lK3OiJvwgSc?list=WL
@@ -11,11 +18,9 @@
 ---
 
 ### Pool
-
 * CRDTs and the Quest for Distributed Consistency https://youtu.be/B5NULPSiOGw?list=PLjIz47fNzNQQXSPPRdeiUyReQ25Rhe9LK
 * Building decentralised apps with JS / Михаил Кузнецов (ING) https://youtu.be/HLsbP2UXb8Q?list=WL
 * Разработка под WebAssembly: реальные грабли и примеры / Андрей Нагих (Инетра, Bytefog) https://youtu.be/pIwoOQX01Ek?list=WL
-* Николай Матвиенко — Декомпозиция Main Thread в Node.js для увеличения пропускной способности https://youtu.be/Mfz1_blLl9Q?list=WL
 * Кирилл Черкашин — Работаем с абстрактными синтаксическими деревьями JavaScript https://youtu.be/ILSpvViUlPU?list=WL
 * Зар Захаров — История о том, как мы в банке JS-сервисы встраивали в нативное приложение https://youtu.be/RCkqblvwFQo?list=WL
 * Дмитрий Бежецков, Владимир Ануфриенко — Портирование JS на Эльбрус https://youtu.be/1zWUN6y2WbI?list=WL
@@ -26,13 +31,11 @@
 ---
 
 ### Hold
-
 * Future JavaScript: what is still missing? | Dr. Axel Rauschmayer https://youtu.be/XYAgmj527PU?list=WL
 * PiterJS #21 - Илья Кашлаков - Рефакторинг платежного процесса Яндекс.Денег https://youtu.be/-wM-JmF1-VM?list=WL
 
 
 ### Docker 
-* Containerizing Angular with Docker  - https://www.youtube.com/watch?v=cLT7eUWKZpg
 * Optimize and Deploy Your Angular App - https://www.youtube.com/watch?v=FOdetrZCsmU&list=LLvIgD6w0x5QK5e23xDw3IEQ&t=0s&index=22
 
 
@@ -47,42 +50,26 @@
 * Алексей Козятинский — Отладка JS на примере Chrome DevTools - https://www.youtube.com/watch?v=kBHUEFYawTk&t=0s&list=WL&index=141
 * Распространенные ошибки при написании юнит-тестов, Катерина Павленко - https://www.youtube.com/watch?v=g5VETJqI6uc&t=0s&list=WL&index=276
 * Composition over Inheritance - https://youtu.be/wfMtDGfHWpA
-* Philippe De Ryck - Cookies versus tokens: a paradoxical choice - https://www.youtube.com/watch?v=9ZOpUtQ_4Uk
 * Lea Verou — /Reg(exp){2}lained/: Demystifying Regular Expressions - https://youtu.be/M7vDtxaD7ZU?list=WL
 * Виталий Фридман — New adventures in frontend, Season 2 - https://www.youtube.com/watch?v=wuTPzW6aK0Q
 * New Adventures in Front-End, 2019 Edition / Виталий Фридман (Smashing Magazine) https://www.youtube.com/watch?v=Wz17FARavd0
 * Закэшируй это / Всеволод Шмыров - https://www.youtube.com/watch?v=1WrPLJmjJ6I
-* Building decentralised apps with JS / Михаил Кузнецов (ING) https://youtu.be/HLsbP2UXb8Q
 
 
 ### V8
 * JavaScript Engines: The Good Parts™ - Mathias Bynens & Benedikt Meurer - JSConf EU 2018 https://www.youtube.com/watch?v=5nmpokoRaZI 
 * A Tale of Types, Classes, and Maps by Benedikt Meurer · JSCamp Barcelona 2018 https://youtu.be/IFWulQnM5E0
-* Jake Archibald: In The Loop - JSConf.Asia 2018 - https://www.youtube.com/watch?v=cCOL7MC4Pl0
-* Филипп Робертс: Что за чертовщина такая event loop? | JSConf EU 2014 - https://www.youtube.com/watch?v=8aGhZQkoFbQ
 * Google I/O 2013 - Accelerating Oz with V8: Follow the Yellow Brick Road to JavaScript Performance https://youtu.be/VhpdsjBUS3g
 * V8 and How It Listens to You - Michael Stanton https://www.youtube.com/watch?v=u7zRSm8jzvA
 
 
-
 ### HTML/CSS
 * Ответ на главный вопрос в CSS, Михаил Иванкив - https://www.youtube.com/watch?v=cO2-zYzjyD0
-* Посторонние шрифты — HTML Шорты - https://www.youtube.com/watch?v=MTQ9FpT3ayc
-* Какие нужны фавиконки — HTML Шорты - https://youtu.be/iG9WF8Vpog
-* Адаптивная вёрстка — HTML Шорты -  https://youtu.be/srUZ9E4qQlQ
-* Нормальный сброс — HTML Шорты - https://youtu.be/KGYmOlNteas
-* Как прятать — HTML Шорты - https://youtu.be/Ns0zijQJxH4
-* Прогрессивная деградация — HTML Шорты - https://youtu.be/sZleJiCCWP8
-* Кому нужны флексы — HTML Шорты - https://youtu.be/Wpglfz7aXzo
-* Зачем нужны заголовки — HTML Шорты - https://youtu.be/atXxkKjPbN8
-* Кастомные свойства — HTML Шорты - https://youtu.be/Ag98mgI4bXA
-* Как правильно вставлять SVG — HTML Шорты - https://youtu.be/TNX0-JLdM_U
-* Ссылки вокруг блоков — HTML Шорты - https://youtu.be/JEItJ4nyl68
 * CSS TRICKS YOU GOTTA LOVE by Oleksandr Pavlyshch - https://youtu.be/t7hOw1znhGg
 * Процесс создания сложных анимаций в веб / Наталья Габитова, Егор Савинцев  https://www.youtube.com/watch?v=E-UMYRu_g2U
-* Houdini CSS, который JavaScript – Никита Дубко - https://www.youtube.com/watch?v=yyVU-r9sRw8
 * Типографика в вебе – Антон Кастрицкий https://youtu.be/IFwOMg8FgSA
 * SVG: трудности перевода, Вальдемар Костенко - https://www.youtube.com/watch?v=F7BzxmCAqQw
+
 
 # Watched
 * Increasing Performance - https://www.youtube.com/watch?v=I6ZvpdRM1eQ&list=LLvIgD6w0x5QK5e23xDw3IEQ&t=0s&index=20
@@ -156,3 +143,5 @@
 * Платформенная команда: пособие по применению | Александр Казаченко, Тинькофф | SPA Meetup #5 https://youtu.be/Y61bQAfgW70
 * WebAssembly's Post-MVP Future - Lin Clark & Till Schneidereit | JSHeroes 2019 https://youtu.be/ZZ3uj-2H6-w?list=WL
 * MoscowJS 41 - Опыт использования WebRTC – Григорий Кузнецов https://youtu.be/gQlQwG4vn28?list=WL
+* Containerizing Angular with Docker  - https://www.youtube.com/watch?v=cLT7eUWKZpg
+* Николай Матвиенко — Декомпозиция Main Thread в Node.js для увеличения пропускной способности https://youtu.be/Mfz1_blLl9Q?list=WL
