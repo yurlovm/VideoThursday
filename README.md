@@ -1,7 +1,5 @@
 # VideoThursday
 
-* How we make Angular fast | Miško Hevery  https://www.youtube.com/watch?v=EqSRpkMRyY4
-* The secrets behind Angular’s lightning speed | Max Koretskyi https://youtu.be/nQ8oJ1rpwIc
 * Deep Dive into the Angular Compiler | Alex Rickabaugh https://youtu.be/anphffaCZrQ
 * How Angular works | Kara Erickson https://youtu.be/S0o-4yc2n-8
 * Building with Ivy: rethinking reactive Angular | Mike Ryan https://youtu.be/rz-rcaGXhGk
@@ -145,3 +143,5 @@
 * MoscowJS 41 - Опыт использования WebRTC – Григорий Кузнецов https://youtu.be/gQlQwG4vn28?list=WL
 * Containerizing Angular with Docker  - https://www.youtube.com/watch?v=cLT7eUWKZpg
 * Николай Матвиенко — Декомпозиция Main Thread в Node.js для увеличения пропускной способности https://youtu.be/Mfz1_blLl9Q?list=WL
+* How we make Angular fast | Miško Hevery  https://www.youtube.com/watch?v=EqSRpkMRyY4
+* The secrets behind Angular’s lightning speed | Max Koretskyi https://youtu.be/nQ8oJ1rpwIc
