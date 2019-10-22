@@ -1,16 +1,11 @@
 # VideoThursday
-
 * Deep Dive into the Angular Compiler | Alex Rickabaugh https://youtu.be/anphffaCZrQ
 * How Angular works | Kara Erickson https://youtu.be/S0o-4yc2n-8
 * Building with Ivy: rethinking reactive Angular | Mike Ryan https://youtu.be/rz-rcaGXhGk
-* Angular and the OWASP top 10 | Philippe De Ryck https://youtu.be/jc0YYLLEol0
-
 
 
 ### Voted
-* Виктор Грищенко — Децентрализованный веб https://youtu.be/lROd9NUBP5Q?list=WL
-* 08. Houdini CSS, который JavaScript – Никита Дубко https://youtu.be/yyVU-r9sRw8?list=WL
-* State of Houdini (Chrome Dev Summit 2018) https://youtu.be/lK3OiJvwgSc?list=WL
+* Виктор Грищенко — Децентрализованный веб https://youtu.be/lROd9NUBP5Q
 * Андрей Мелихов — Node.js в энтерпрайзе: почему и как https://youtu.be/MPQ92gxEKlE?list=WL
 
 ---
@@ -22,15 +17,16 @@
 * Кирилл Черкашин — Работаем с абстрактными синтаксическими деревьями JavaScript https://youtu.be/ILSpvViUlPU?list=WL
 * Зар Захаров — История о том, как мы в банке JS-сервисы встраивали в нативное приложение https://youtu.be/RCkqblvwFQo?list=WL
 * Дмитрий Бежецков, Владимир Ануфриенко — Портирование JS на Эльбрус https://youtu.be/1zWUN6y2WbI?list=WL
-* Philippe De Ryck - Cookies versus tokens: a paradoxical choice https://youtu.be/9ZOpUtQ_4Uk?list=WL
 * Let’s build a JavaScript Engine in Rust by Jason Williams | JSConf EU 2019 https://youtu.be/_uD2pijcSi4?list=PLjIz47fNzNQQXSPPRdeiUyReQ25Rhe9LK
 
 
 ---
 
 ### Hold
-* Future JavaScript: what is still missing? | Dr. Axel Rauschmayer https://youtu.be/XYAgmj527PU?list=WL
-* PiterJS #21 - Илья Кашлаков - Рефакторинг платежного процесса Яндекс.Денег https://youtu.be/-wM-JmF1-VM?list=WL
+* Future JavaScript: what is still missing? | Dr. Axel Rauschmayer https://youtu.be/XYAgmj527PU
+* PiterJS #21 - Илья Кашлаков - Рефакторинг платежного процесса Яндекс.Денег https://youtu.be/-wM-JmF1-VM
+* Angular and the OWASP top 10 | Philippe De Ryck https://youtu.be/jc0YYLLEol0
+* Philippe De Ryck - Cookies versus tokens: a paradoxical choice https://youtu.be/9ZOpUtQ_4Uk
 
 
 ### Docker 
@@ -145,3 +141,5 @@
 * Николай Матвиенко — Декомпозиция Main Thread в Node.js для увеличения пропускной способности https://youtu.be/Mfz1_blLl9Q?list=WL
 * How we make Angular fast | Miško Hevery  https://www.youtube.com/watch?v=EqSRpkMRyY4
 * The secrets behind Angular’s lightning speed | Max Koretskyi https://youtu.be/nQ8oJ1rpwIc
+* 08. Houdini CSS, который JavaScript – Никита Дубко https://youtu.be/yyVU-r9sRw8?list=WL
+* State of Houdini (Chrome Dev Summit 2018) https://youtu.be/lK3OiJvwgSc?list=WL
