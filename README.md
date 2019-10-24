@@ -5,9 +5,8 @@
 
 
 ### Voted
-* Виктор Грищенко — Децентрализованный веб https://youtu.be/lROd9NUBP5Q
 * Андрей Мелихов — Node.js в энтерпрайзе: почему и как https://youtu.be/MPQ92gxEKlE?list=WL
-
+* JavaScript Engines: The Good Parts™ - Mathias Bynens & Benedikt Meurer - JSConf EU 2018 https://www.youtube.com/watch?v=5nmpokoRaZI 
 ---
 
 ### Pool
@@ -27,7 +26,7 @@
 * PiterJS #21 - Илья Кашлаков - Рефакторинг платежного процесса Яндекс.Денег https://youtu.be/-wM-JmF1-VM
 * Angular and the OWASP top 10 | Philippe De Ryck https://youtu.be/jc0YYLLEol0
 * Philippe De Ryck - Cookies versus tokens: a paradoxical choice https://youtu.be/9ZOpUtQ_4Uk
-
+* Виктор Грищенко — Децентрализованный веб https://youtu.be/lROd9NUBP5Q
 
 ### Docker 
 * Optimize and Deploy Your Angular App - https://www.youtube.com/watch?v=FOdetrZCsmU&list=LLvIgD6w0x5QK5e23xDw3IEQ&t=0s&index=22
@@ -51,7 +50,6 @@
 
 
 ### V8
-* JavaScript Engines: The Good Parts™ - Mathias Bynens & Benedikt Meurer - JSConf EU 2018 https://www.youtube.com/watch?v=5nmpokoRaZI 
 * A Tale of Types, Classes, and Maps by Benedikt Meurer · JSCamp Barcelona 2018 https://youtu.be/IFWulQnM5E0
 * Google I/O 2013 - Accelerating Oz with V8: Follow the Yellow Brick Road to JavaScript Performance https://youtu.be/VhpdsjBUS3g
 * V8 and How It Listens to You - Michael Stanton https://www.youtube.com/watch?v=u7zRSm8jzvA
