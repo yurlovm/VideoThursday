@@ -5,8 +5,6 @@
 
 
 ### Voted
-* История про моделирование «по-быстрому» / Александр Прибыткин (МегаФон) https://www.youtube.com/watch?v=hQfglqE18Jo
-* Продвинутый TypeScript / Михаил Башуров (Syncro) https://youtu.be/m0uRxCCno00
 ---
 
 ### Pool
@@ -18,7 +16,7 @@
 * Дмитрий Бежецков, Владимир Ануфриенко — Портирование JS на Эльбрус https://youtu.be/1zWUN6y2WbI?list=WL
 * Let’s build a JavaScript Engine in Rust by Jason Williams | JSConf EU 2019 https://youtu.be/_uD2pijcSi4?list=PLjIz47fNzNQQXSPPRdeiUyReQ25Rhe9LK
 * Андрей Мелихов — Node.js в энтерпрайзе: почему и как https://youtu.be/MPQ92gxEKlE?list=WL
-
+* Масштабируемая архитектура фронтенда — Роман Дворнов, Avito https://youtu.be/z9y6PNC2FL0
 ---
 
 ### Hold
@@ -27,9 +25,10 @@
 * Angular and the OWASP top 10 | Philippe De Ryck https://youtu.be/jc0YYLLEol0
 * Philippe De Ryck - Cookies versus tokens: a paradoxical choice https://youtu.be/9ZOpUtQ_4Uk
 * Виктор Грищенко — Децентрализованный веб https://youtu.be/lROd9NUBP5Q
+* Закэшируй это / Всеволод Шмыров - https://www.youtube.com/watch?v=1WrPLJmjJ6I
 
 ### Docker 
-* Optimize and Deploy Your Angular App - https://www.youtube.com/watch?v=FOdetrZCsmU&list=LLvIgD6w0x5QK5e23xDw3IEQ&t=0s&index=22
+* Optimize and Deploy Your Angular App - https://www.youtube.com/watch?v=FOdetrZCsmU
 
 
 ### ng-conf
@@ -45,18 +44,10 @@
 * Lea Verou — /Reg(exp){2}lained/: Demystifying Regular Expressions - https://youtu.be/M7vDtxaD7ZU?list=WL
 * Виталий Фридман — New adventures in frontend, Season 2 - https://www.youtube.com/watch?v=wuTPzW6aK0Q
 * New Adventures in Front-End, 2019 Edition / Виталий Фридман (Smashing Magazine) https://www.youtube.com/watch?v=Wz17FARavd0
-* Закэшируй это / Всеволод Шмыров - https://www.youtube.com/watch?v=1WrPLJmjJ6I
-
-
-### V8
-* A Tale of Types, Classes, and Maps by Benedikt Meurer · JSCamp Barcelona 2018 https://youtu.be/IFWulQnM5E0
-* Google I/O 2013 - Accelerating Oz with V8: Follow the Yellow Brick Road to JavaScript Performance https://youtu.be/VhpdsjBUS3g
-* V8 and How It Listens to You - Michael Stanton https://www.youtube.com/watch?v=u7zRSm8jzvA
 
 
 ### HTML/CSS
 * Ответ на главный вопрос в CSS, Михаил Иванкив - https://www.youtube.com/watch?v=cO2-zYzjyD0
-* CSS TRICKS YOU GOTTA LOVE by Oleksandr Pavlyshch - https://youtu.be/t7hOw1znhGg
 * Процесс создания сложных анимаций в веб / Наталья Габитова, Егор Савинцев  https://www.youtube.com/watch?v=E-UMYRu_g2U
 * Типографика в вебе – Антон Кастрицкий https://youtu.be/IFwOMg8FgSA
 * SVG: трудности перевода, Вальдемар Костенко - https://www.youtube.com/watch?v=F7BzxmCAqQw
@@ -142,3 +133,5 @@
 * State of Houdini (Chrome Dev Summit 2018) https://youtu.be/lK3OiJvwgSc?list=WL
 * Знай свой JIT: ближе к машине / Андрей Мелихов - https://www.youtube.com/watch?v=cgquEDC0Ko4
 * JavaScript Engines: The Good Parts™ - Mathias Bynens & Benedikt Meurer - JSConf EU 2018 https://www.youtube.com/watch?v=5nmpokoRaZI 
+* История про моделирование «по-быстрому» / Александр Прибыткин (МегаФон) https://www.youtube.com/watch?v=hQfglqE18Jo
+* Продвинутый TypeScript / Михаил Башуров (Syncro) https://youtu.be/m0uRxCCno00
