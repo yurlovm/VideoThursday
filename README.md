@@ -1,13 +1,10 @@
 # VideoThursday
+
+### Pool
+
 * Deep Dive into the Angular Compiler | Alex Rickabaugh https://youtu.be/anphffaCZrQ
 * How Angular works | Kara Erickson https://youtu.be/S0o-4yc2n-8
 * Building with Ivy: rethinking reactive Angular | Mike Ryan https://youtu.be/rz-rcaGXhGk
-
-
-### Voted
----
-
-### Pool
 * CRDTs and the Quest for Distributed Consistency https://youtu.be/B5NULPSiOGw?list=PLjIz47fNzNQQXSPPRdeiUyReQ25Rhe9LK
 * Building decentralised apps with JS / Михаил Кузнецов (ING) https://youtu.be/HLsbP2UXb8Q?list=WL
 * Разработка под WebAssembly: реальные грабли и примеры / Андрей Нагих (Инетра, Bytefog) https://youtu.be/pIwoOQX01Ek?list=WL
@@ -16,8 +13,10 @@
 * Дмитрий Бежецков, Владимир Ануфриенко — Портирование JS на Эльбрус https://youtu.be/1zWUN6y2WbI?list=WL
 * Let’s build a JavaScript Engine in Rust by Jason Williams | JSConf EU 2019 https://youtu.be/_uD2pijcSi4?list=PLjIz47fNzNQQXSPPRdeiUyReQ25Rhe9LK
 * Андрей Мелихов — Node.js в энтерпрайзе: почему и как https://youtu.be/MPQ92gxEKlE?list=WL
-* Масштабируемая архитектура фронтенда — Роман Дворнов, Avito https://youtu.be/z9y6PNC2FL0
+* Ruben Bridgewater — Error handling: doing it right! https://youtu.be/bJ3glfA-jqo?list=WL
+* The main thread is overworked & underpaid (Chrome Dev Summit 2019) https://youtu.be/7Rrv9qFMWNM
 ---
+
 
 ### Hold
 * Future JavaScript: what is still missing? | Dr. Axel Rauschmayer https://youtu.be/XYAgmj527PU
@@ -135,3 +134,4 @@
 * JavaScript Engines: The Good Parts™ - Mathias Bynens & Benedikt Meurer - JSConf EU 2018 https://www.youtube.com/watch?v=5nmpokoRaZI 
 * История про моделирование «по-быстрому» / Александр Прибыткин (МегаФон) https://www.youtube.com/watch?v=hQfglqE18Jo
 * Продвинутый TypeScript / Михаил Башуров (Syncro) https://youtu.be/m0uRxCCno00
+* Масштабируемая архитектура фронтенда — Роман Дворнов, Avito https://youtu.be/z9y6PNC2FL0
