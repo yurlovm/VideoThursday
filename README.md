@@ -53,7 +53,24 @@
 
 
 # Watched
-* Increasing Performance - https://www.youtube.com/watch?v=I6ZvpdRM1eQ&list=LLvIgD6w0x5QK5e23xDw3IEQ&t=0s&index=20
+* 003. Git — инструмент для совместной работы, с нуля и до регламента в команде — Сергей Сергеев https://youtu.be/yDSs80lu3ak
+* 001.Адаптивная вёрстка (обновленная версия) - Дмитрий Душкин https://www.youtube.com/watch?v=5jTDpz7OXD4
+* 010. Типизация — Андрей Морозов https://youtu.be/tybjhHPj3io
+* 004. Графические эффекты. Работа с аудио, синтез и распознавание речи — Александр Завьялов https://youtu.be/jv6r-mURxUY
+* 009. Performance — Иван Карев, Андрей Морозов, Михаил Мокрушин, Андрей Роенко, Тамерлан Локьяев https://youtu.be/LToHQwOx4SM
+* 011. Верхнеуровневая архитектура фронтенда — Анна Карпелевич https://youtu.be/mWeq5Kh6tlM
+* 013. Алгоритмы и структуры данных — Артём Вурсалов https://www.youtube.com/watch?v=ijwbVxLMp58
+* Cостояние состояния (Services, Redux, Mobx, DCI) - Алексей Охрименко https://youtu.be/8VesYob7OJg
+* S.O.L.I.D-ый JavaScript https://youtu.be/wi3wPzReKZQ
+* Angular Router вдоль и поперек - Юлия Царева (Angular митап #4) https://www.youtube.com/watch?v=ovsBd6Y5DN0
+* RxJs Subjects - Андрей Алексеев https://youtu.be/KjsRx39o-uM
+* Ready for Readable Code? - John Papa https://youtu.be/56mETnrByBM
+* 007. Автотесты. Модульное тестирование - Дмитрий Андриянов https://youtu.be/qaL70WegmaI
+* 008. Интеграционное тестирование интерфейсов - Евгений Гаврюшин https://youtu.be/dflmpqh_oRc
+* Евгений Поздняков — RxJS: производительность и утечки памяти в большом приложении https://youtu.be/7806msvJ1HE
+* From Inactive to Reactive with ngrx Brandon Roberts & Mike Ryan https://youtu.be/cyaAhXHhxgk?list=LLvIgD6w0x5QK5e23xDw3IEQ
+* NgRx Selectors How to stop worrying about your Store structure - David East & Todd Motto https://youtu.be/Y4McLi9scfc
+* Increasing Performance - more than a pipe dream - Tanner Edwards https://youtu.be/I6ZvpdRM1eQ?list=LLvIgD6w0x5QK5e23xDw3IEQ
 * Deep dive into content projection - https://www.youtube.com/watch?v=PTwKhxLZ3jI&list=LLvIgD6w0x5QK5e23xDw3IEQ&t=0s&index=17
 * Advanced DI by Ward Bell - https://www.youtube.com/watch?v=PRRgo6F0cjs&list=LLvIgD6w0x5QK5e23xDw3IEQ&t=0s&index=32
 * RxJS 5 Thinking Reactively | Ben Lesh - https://www.youtube.com/watch?v=3LKMwkuK0ZE&list=LLvIgD6w0x5QK5e23xDw3IEQ&t=0s&index=55
