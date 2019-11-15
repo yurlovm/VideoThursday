@@ -3,8 +3,6 @@
 ### Pool
 
 * Deep Dive into the Angular Compiler | Alex Rickabaugh https://youtu.be/anphffaCZrQ
-* How Angular works | Kara Erickson https://youtu.be/S0o-4yc2n-8
-* Building with Ivy: rethinking reactive Angular | Mike Ryan https://youtu.be/rz-rcaGXhGk
 * CRDTs and the Quest for Distributed Consistency https://youtu.be/B5NULPSiOGw?list=PLjIz47fNzNQQXSPPRdeiUyReQ25Rhe9LK
 * Building decentralised apps with JS / Михаил Кузнецов (ING) https://youtu.be/HLsbP2UXb8Q?list=WL
 * Разработка под WebAssembly: реальные грабли и примеры / Андрей Нагих (Инетра, Bytefog) https://youtu.be/pIwoOQX01Ek?list=WL
@@ -152,3 +150,5 @@
 * История про моделирование «по-быстрому» / Александр Прибыткин (МегаФон) https://www.youtube.com/watch?v=hQfglqE18Jo
 * Продвинутый TypeScript / Михаил Башуров (Syncro) https://youtu.be/m0uRxCCno00
 * Масштабируемая архитектура фронтенда — Роман Дворнов, Avito https://youtu.be/z9y6PNC2FL0
+* Building with Ivy: rethinking reactive Angular | Mike Ryan https://youtu.be/rz-rcaGXhGk
+* How Angular works | Kara Erickson https://youtu.be/S0o-4yc2n-8
