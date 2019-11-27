@@ -11,8 +11,9 @@
 * Дмитрий Бежецков, Владимир Ануфриенко — Портирование JS на Эльбрус https://youtu.be/1zWUN6y2WbI?list=WL
 * Let’s build a JavaScript Engine in Rust by Jason Williams | JSConf EU 2019 https://youtu.be/_uD2pijcSi4?list=PLjIz47fNzNQQXSPPRdeiUyReQ25Rhe9LK
 * Андрей Мелихов — Node.js в энтерпрайзе: почему и как https://youtu.be/MPQ92gxEKlE?list=WL
-* Ruben Bridgewater — Error handling: doing it right! https://youtu.be/bJ3glfA-jqo?list=WL
 * The main thread is overworked & underpaid (Chrome Dev Summit 2019) https://youtu.be/7Rrv9qFMWNM
+* Illya Klymov - Взгляд на VueJS изнутри https://youtu.be/FaLNqrHYbXg
+* Alex Slepchenkov - JAMstack и с чем его едят https://youtu.be/b1ZnAmIXXAQ
 ---
 
 
@@ -37,7 +38,6 @@
 * Profiling Paint Perf  - https://youtu.be/Wfxm56ttAmE https://youtu.be/W4zp79QyDXA
 * Алексей Козятинский — Отладка JS на примере Chrome DevTools - https://www.youtube.com/watch?v=kBHUEFYawTk&t=0s&list=WL&index=141
 * Распространенные ошибки при написании юнит-тестов, Катерина Павленко - https://www.youtube.com/watch?v=g5VETJqI6uc&t=0s&list=WL&index=276
-* Composition over Inheritance - https://youtu.be/wfMtDGfHWpA
 * Lea Verou — /Reg(exp){2}lained/: Demystifying Regular Expressions - https://youtu.be/M7vDtxaD7ZU?list=WL
 * Виталий Фридман — New adventures in frontend, Season 2 - https://www.youtube.com/watch?v=wuTPzW6aK0Q
 * New Adventures in Front-End, 2019 Edition / Виталий Фридман (Smashing Magazine) https://www.youtube.com/watch?v=Wz17FARavd0
@@ -152,3 +152,4 @@
 * Масштабируемая архитектура фронтенда — Роман Дворнов, Avito https://youtu.be/z9y6PNC2FL0
 * Building with Ivy: rethinking reactive Angular | Mike Ryan https://youtu.be/rz-rcaGXhGk
 * How Angular works | Kara Erickson https://youtu.be/S0o-4yc2n-8
+* Ruben Bridgewater — Error handling: doing it right! https://youtu.be/bJ3glfA-jqo?list=WL
