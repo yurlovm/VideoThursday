@@ -12,8 +12,6 @@
 * Let’s build a JavaScript Engine in Rust by Jason Williams | JSConf EU 2019 https://youtu.be/_uD2pijcSi4?list=PLjIz47fNzNQQXSPPRdeiUyReQ25Rhe9LK
 * Андрей Мелихов — Node.js в энтерпрайзе: почему и как https://youtu.be/MPQ92gxEKlE?list=WL
 * The main thread is overworked & underpaid (Chrome Dev Summit 2019) https://youtu.be/7Rrv9qFMWNM
-* Illya Klymov - Взгляд на VueJS изнутри https://youtu.be/FaLNqrHYbXg
-* Alex Slepchenkov - JAMstack и с чем его едят https://youtu.be/b1ZnAmIXXAQ
 ---
 
 
@@ -153,3 +151,5 @@
 * Building with Ivy: rethinking reactive Angular | Mike Ryan https://youtu.be/rz-rcaGXhGk
 * How Angular works | Kara Erickson https://youtu.be/S0o-4yc2n-8
 * Ruben Bridgewater — Error handling: doing it right! https://youtu.be/bJ3glfA-jqo?list=WL
+* Illya Klymov - Взгляд на VueJS изнутри https://youtu.be/FaLNqrHYbXg
+* Alex Slepchenkov - JAMstack и с чем его едят https://youtu.be/b1ZnAmIXXAQ
