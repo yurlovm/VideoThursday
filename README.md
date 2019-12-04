@@ -1,7 +1,6 @@
 # VideoThursday
 
 ### Pool
-
 * Deep Dive into the Angular Compiler | Alex Rickabaugh https://youtu.be/anphffaCZrQ
 * CRDTs and the Quest for Distributed Consistency https://youtu.be/B5NULPSiOGw?list=PLjIz47fNzNQQXSPPRdeiUyReQ25Rhe9LK
 * Building decentralised apps with JS / Михаил Кузнецов (ING) https://youtu.be/HLsbP2UXb8Q?list=WL
@@ -12,6 +11,17 @@
 * Let’s build a JavaScript Engine in Rust by Jason Williams | JSConf EU 2019 https://youtu.be/_uD2pijcSi4?list=PLjIz47fNzNQQXSPPRdeiUyReQ25Rhe9LK
 * Андрей Мелихов — Node.js в энтерпрайзе: почему и как https://youtu.be/MPQ92gxEKlE?list=WL
 * The main thread is overworked & underpaid (Chrome Dev Summit 2019) https://youtu.be/7Rrv9qFMWNM
+* Optimize and Deploy Your Angular App - https://www.youtube.com/watch?v=FOdetrZCsmU
+* Ответ на главный вопрос в CSS, Михаил Иванкив - https://www.youtube.com/watch?v=cO2-zYzjyD0
+* Процесс создания сложных анимаций в веб / Наталья Габитова, Егор Савинцев  https://www.youtube.com/watch?v=E-UMYRu_g2U
+* New Adventures in Front-End, 2019 Edition / Виталий Фридман (Smashing Magazine) https://www.youtube.com/watch?v=Wz17FARavd0
+* Артём Кобзарь/Дмитрий Махнёв - (не|ну)жная монада Either на практике и в теории https://youtu.be/S0cCjbWuvzk
+* Роман Дворнов — CSS definition syntax https://youtu.be/8kjE1n6mQ2s
+* Максим Корецкий - Front end development and change detection https://youtu.be/zK7ah1f6oTU
+* Пусть всем кажется, что всё грузится быстро / Виктор Русакович (GP Solutions) https://youtu.be/ODWakh7Tl9s
+* _ ___ ______? / Вадим Макеев (HTML Academy) https://youtu.be/4g2Ww7uFlBk
+* LongestJS: Денис Колесников — npm understand --with-improves https://youtu.be/Cz6bQw1f23s
+* Самый мягкий и пушистый путь в Machine Learning и Deep Neural Networks / Алексей Охрименко (Avito) https://youtu.be/BX2M8t5BA3s
 ---
 
 
@@ -23,29 +33,12 @@
 * Виктор Грищенко — Децентрализованный веб https://youtu.be/lROd9NUBP5Q
 * Закэшируй это / Всеволод Шмыров - https://www.youtube.com/watch?v=1WrPLJmjJ6I
 
-### Docker 
-* Optimize and Deploy Your Angular App - https://www.youtube.com/watch?v=FOdetrZCsmU
-
-
-### ng-conf
-* RxJS Advanced Patterns – Operate Heavily Dynamic UI’s | Michael Hladky https://youtu.be/XKfhGntZROQ
-* Angular and CSS Grid: Get ready to fall in love | Bill Odom https://youtu.be/lh6n0JxXD_g
-
 
 ### JavaScript
 * Profiling Paint Perf  - https://youtu.be/Wfxm56ttAmE https://youtu.be/W4zp79QyDXA
 * Алексей Козятинский — Отладка JS на примере Chrome DevTools - https://www.youtube.com/watch?v=kBHUEFYawTk&t=0s&list=WL&index=141
 * Распространенные ошибки при написании юнит-тестов, Катерина Павленко - https://www.youtube.com/watch?v=g5VETJqI6uc&t=0s&list=WL&index=276
 * Lea Verou — /Reg(exp){2}lained/: Demystifying Regular Expressions - https://youtu.be/M7vDtxaD7ZU?list=WL
-* Виталий Фридман — New adventures in frontend, Season 2 - https://www.youtube.com/watch?v=wuTPzW6aK0Q
-* New Adventures in Front-End, 2019 Edition / Виталий Фридман (Smashing Magazine) https://www.youtube.com/watch?v=Wz17FARavd0
-
-
-### HTML/CSS
-* Ответ на главный вопрос в CSS, Михаил Иванкив - https://www.youtube.com/watch?v=cO2-zYzjyD0
-* Процесс создания сложных анимаций в веб / Наталья Габитова, Егор Савинцев  https://www.youtube.com/watch?v=E-UMYRu_g2U
-* Типографика в вебе – Антон Кастрицкий https://youtu.be/IFwOMg8FgSA
-* SVG: трудности перевода, Вальдемар Костенко - https://www.youtube.com/watch?v=F7BzxmCAqQw
 
 
 # Watched
