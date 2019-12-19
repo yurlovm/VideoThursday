@@ -1,5 +1,8 @@
 # VideoThursday
 
+* Stencil: a built-time approach to the web by Manu Martinez-Almeida | JSConf EU 2019 https://youtu.be/M1F81V-NhP0
+* Make Web Components Great Again with StencilJS by Julien Renaux https://youtu.be/hQ9vHusMscw
+
 ### Pool
 * Deep Dive into the Angular Compiler | Alex Rickabaugh https://youtu.be/anphffaCZrQ
 * CRDTs and the Quest for Distributed Consistency https://youtu.be/B5NULPSiOGw?list=PLjIz47fNzNQQXSPPRdeiUyReQ25Rhe9LK
@@ -20,7 +23,6 @@
 * Максим Корецкий - Front end development and change detection https://youtu.be/zK7ah1f6oTU
 * Пусть всем кажется, что всё грузится быстро / Виктор Русакович (GP Solutions) https://youtu.be/ODWakh7Tl9s
 * _ ___ ______? / Вадим Макеев (HTML Academy) https://youtu.be/4g2Ww7uFlBk
-* LongestJS: Денис Колесников — npm understand --with-improves https://youtu.be/Cz6bQw1f23s
 * Самый мягкий и пушистый путь в Machine Learning и Deep Neural Networks / Алексей Охрименко (Avito) https://youtu.be/BX2M8t5BA3s
 * Profiling Paint Perf  - https://youtu.be/Wfxm56ttAmE https://youtu.be/W4zp79QyDXA
 * Алексей Козятинский — Отладка JS на примере Chrome DevTools - https://www.youtube.com/watch?v=kBHUEFYawTk&t=0s&list=WL&index=141
@@ -143,3 +145,4 @@
 * Ruben Bridgewater — Error handling: doing it right! https://youtu.be/bJ3glfA-jqo?list=WL
 * Illya Klymov - Взгляд на VueJS изнутри https://youtu.be/FaLNqrHYbXg
 * Alex Slepchenkov - JAMstack и с чем его едят https://youtu.be/b1ZnAmIXXAQ
+* LongestJS: Денис Колесников — npm understand --with-improves https://youtu.be/Cz6bQw1f23s
