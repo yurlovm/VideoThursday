@@ -1,8 +1,5 @@
 # VideoThursday
 
-* Stencil: a built-time approach to the web by Manu Martinez-Almeida | JSConf EU 2019 https://youtu.be/M1F81V-NhP0
-* Make Web Components Great Again with StencilJS by Julien Renaux https://youtu.be/hQ9vHusMscw
-
 ### Pool
 * Deep Dive into the Angular Compiler | Alex Rickabaugh https://youtu.be/anphffaCZrQ
 * CRDTs and the Quest for Distributed Consistency https://youtu.be/B5NULPSiOGw?list=PLjIz47fNzNQQXSPPRdeiUyReQ25Rhe9LK
@@ -17,7 +14,6 @@
 * Optimize and Deploy Your Angular App - https://www.youtube.com/watch?v=FOdetrZCsmU
 * Ответ на главный вопрос в CSS, Михаил Иванкив - https://www.youtube.com/watch?v=cO2-zYzjyD0
 * Процесс создания сложных анимаций в веб / Наталья Габитова, Егор Савинцев  https://www.youtube.com/watch?v=E-UMYRu_g2U
-* New Adventures in Front-End, 2019 Edition / Виталий Фридман (Smashing Magazine) https://www.youtube.com/watch?v=Wz17FARavd0
 * Артём Кобзарь/Дмитрий Махнёв - (не|ну)жная монада Either на практике и в теории https://youtu.be/S0cCjbWuvzk
 * Роман Дворнов — CSS definition syntax https://youtu.be/8kjE1n6mQ2s
 * Максим Корецкий - Front end development and change detection https://youtu.be/zK7ah1f6oTU
@@ -146,3 +142,6 @@
 * Illya Klymov - Взгляд на VueJS изнутри https://youtu.be/FaLNqrHYbXg
 * Alex Slepchenkov - JAMstack и с чем его едят https://youtu.be/b1ZnAmIXXAQ
 * LongestJS: Денис Колесников — npm understand --with-improves https://youtu.be/Cz6bQw1f23s
+* Stencil: a built-time approach to the web by Manu Martinez-Almeida | JSConf EU 2019 https://youtu.be/M1F81V-NhP0
+* Make Web Components Great Again with StencilJS by Julien Renaux https://youtu.be/hQ9vHusMscw
+* New Adventures in Front-End, 2019 Edition / Виталий Фридман (Smashing Magazine) https://www.youtube.com/watch?v=Wz17FARavd0
