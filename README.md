@@ -4,14 +4,12 @@
 * Deep Dive into the Angular Compiler | Alex Rickabaugh https://youtu.be/anphffaCZrQ
 * CRDTs and the Quest for Distributed Consistency https://youtu.be/B5NULPSiOGw?list=PLjIz47fNzNQQXSPPRdeiUyReQ25Rhe9LK
 * Building decentralised apps with JS / Михаил Кузнецов (ING) https://youtu.be/HLsbP2UXb8Q?list=WL
-* Разработка под WebAssembly: реальные грабли и примеры / Андрей Нагих (Инетра, Bytefog) https://youtu.be/pIwoOQX01Ek?list=WL
 * Кирилл Черкашин — Работаем с абстрактными синтаксическими деревьями JavaScript https://youtu.be/ILSpvViUlPU?list=WL
 * Зар Захаров — История о том, как мы в банке JS-сервисы встраивали в нативное приложение https://youtu.be/RCkqblvwFQo?list=WL
 * Дмитрий Бежецков, Владимир Ануфриенко — Портирование JS на Эльбрус https://youtu.be/1zWUN6y2WbI?list=WL
 * Let’s build a JavaScript Engine in Rust by Jason Williams | JSConf EU 2019 https://youtu.be/_uD2pijcSi4?list=PLjIz47fNzNQQXSPPRdeiUyReQ25Rhe9LK
 * Андрей Мелихов — Node.js в энтерпрайзе: почему и как https://youtu.be/MPQ92gxEKlE?list=WL
 * The main thread is overworked & underpaid (Chrome Dev Summit 2019) https://youtu.be/7Rrv9qFMWNM
-* Optimize and Deploy Your Angular App - https://www.youtube.com/watch?v=FOdetrZCsmU
 * Ответ на главный вопрос в CSS, Михаил Иванкив - https://www.youtube.com/watch?v=cO2-zYzjyD0
 * Процесс создания сложных анимаций в веб / Наталья Габитова, Егор Савинцев  https://www.youtube.com/watch?v=E-UMYRu_g2U
 * Артём Кобзарь/Дмитрий Махнёв - (не|ну)жная монада Either на практике и в теории https://youtu.be/S0cCjbWuvzk
@@ -23,16 +21,17 @@
 * Profiling Paint Perf  - https://youtu.be/Wfxm56ttAmE https://youtu.be/W4zp79QyDXA
 * Алексей Козятинский — Отладка JS на примере Chrome DevTools - https://www.youtube.com/watch?v=kBHUEFYawTk&t=0s&list=WL&index=141
 * Распространенные ошибки при написании юнит-тестов, Катерина Павленко - https://www.youtube.com/watch?v=g5VETJqI6uc&t=0s&list=WL&index=276
----
-
-
-### Hold
 * Future JavaScript: what is still missing? | Dr. Axel Rauschmayer https://youtu.be/XYAgmj527PU
 * PiterJS #21 - Илья Кашлаков - Рефакторинг платежного процесса Яндекс.Денег https://youtu.be/-wM-JmF1-VM
 * Angular and the OWASP top 10 | Philippe De Ryck https://youtu.be/jc0YYLLEol0
 * Philippe De Ryck - Cookies versus tokens: a paradoxical choice https://youtu.be/9ZOpUtQ_4Uk
 * Виктор Грищенко — Децентрализованный веб https://youtu.be/lROd9NUBP5Q
 * Закэшируй это / Всеволод Шмыров - https://www.youtube.com/watch?v=1WrPLJmjJ6I
+---
+
+
+### Hold
+
 
 
 # Watched
