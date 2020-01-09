@@ -18,12 +18,11 @@
 * Роман Дворнов — CSS definition syntax https://youtu.be/8kjE1n6mQ2s
 * Максим Корецкий - Front end development and change detection https://youtu.be/zK7ah1f6oTU
 * Пусть всем кажется, что всё грузится быстро / Виктор Русакович (GP Solutions) https://youtu.be/ODWakh7Tl9s
-* _ ___ ______? / Вадим Макеев (HTML Academy) https://youtu.be/4g2Ww7uFlBk
+* _ ___ ______? / Вадим Макеев (HTML Academy) https://www.youtube.com/watch?v=uI3Q5m9xkkw
 * Самый мягкий и пушистый путь в Machine Learning и Deep Neural Networks / Алексей Охрименко (Avito) https://youtu.be/BX2M8t5BA3s
 * Profiling Paint Perf  - https://youtu.be/Wfxm56ttAmE https://youtu.be/W4zp79QyDXA
 * Алексей Козятинский — Отладка JS на примере Chrome DevTools - https://www.youtube.com/watch?v=kBHUEFYawTk&t=0s&list=WL&index=141
 * Распространенные ошибки при написании юнит-тестов, Катерина Павленко - https://www.youtube.com/watch?v=g5VETJqI6uc&t=0s&list=WL&index=276
-* Lea Verou — /Reg(exp){2}lained/: Demystifying Regular Expressions - https://youtu.be/M7vDtxaD7ZU?list=WL
 ---
 
 
