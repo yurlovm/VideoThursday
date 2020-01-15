@@ -12,11 +12,9 @@
 * The main thread is overworked & underpaid (Chrome Dev Summit 2019) https://youtu.be/7Rrv9qFMWNM
 * Ответ на главный вопрос в CSS, Михаил Иванкив - https://www.youtube.com/watch?v=cO2-zYzjyD0
 * Процесс создания сложных анимаций в веб / Наталья Габитова, Егор Савинцев  https://www.youtube.com/watch?v=E-UMYRu_g2U
-* Артём Кобзарь/Дмитрий Махнёв - (не|ну)жная монада Either на практике и в теории https://youtu.be/S0cCjbWuvzk
 * Роман Дворнов — CSS definition syntax https://youtu.be/8kjE1n6mQ2s
 * Максим Корецкий - Front end development and change detection https://youtu.be/zK7ah1f6oTU
 * Пусть всем кажется, что всё грузится быстро / Виктор Русакович (GP Solutions) https://youtu.be/ODWakh7Tl9s
-* _ ___ ______? / Вадим Макеев (HTML Academy) https://www.youtube.com/watch?v=uI3Q5m9xkkw
 * Самый мягкий и пушистый путь в Machine Learning и Deep Neural Networks / Алексей Охрименко (Avito) https://youtu.be/BX2M8t5BA3s
 * Profiling Paint Perf  - https://youtu.be/Wfxm56ttAmE https://youtu.be/W4zp79QyDXA
 * Алексей Козятинский — Отладка JS на примере Chrome DevTools - https://www.youtube.com/watch?v=kBHUEFYawTk&t=0s&list=WL&index=141
@@ -143,3 +141,5 @@
 * Stencil: a built-time approach to the web by Manu Martinez-Almeida | JSConf EU 2019 https://youtu.be/M1F81V-NhP0
 * Make Web Components Great Again with StencilJS by Julien Renaux https://youtu.be/hQ9vHusMscw
 * New Adventures in Front-End, 2019 Edition / Виталий Фридман (Smashing Magazine) https://www.youtube.com/watch?v=Wz17FARavd0
+* Артём Кобзарь/Дмитрий Махнёв - (не|ну)жная монада Either на практике и в теории https://youtu.be/S0cCjbWuvzk
+* _ ___ ______? / Вадим Макеев (HTML Academy) https://www.youtube.com/watch?v=uI3Q5m9xkkw
