@@ -3,7 +3,6 @@
 ### Pool
 * Deep Dive into the Angular Compiler | Alex Rickabaugh https://youtu.be/anphffaCZrQ
 * CRDTs and the Quest for Distributed Consistency https://youtu.be/B5NULPSiOGw?list=PLjIz47fNzNQQXSPPRdeiUyReQ25Rhe9LK
-* Building decentralised apps with JS / Михаил Кузнецов (ING) https://youtu.be/HLsbP2UXb8Q?list=WL
 * Кирилл Черкашин — Работаем с абстрактными синтаксическими деревьями JavaScript https://youtu.be/ILSpvViUlPU?list=WL
 * Зар Захаров — История о том, как мы в банке JS-сервисы встраивали в нативное приложение https://youtu.be/RCkqblvwFQo?list=WL
 * Дмитрий Бежецков, Владимир Ануфриенко — Портирование JS на Эльбрус https://youtu.be/1zWUN6y2WbI?list=WL
