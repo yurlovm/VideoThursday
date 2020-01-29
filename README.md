@@ -1,6 +1,8 @@
 # VideoThursday
 
 ### Pool
+* Feature toggles: back then and now | Владимир Игнатов, Авито https://youtu.be/wxB6Vzo_Xzc
+* HolyJS Дмитрий Пацура — Микросервисная архитектура https://youtu.be/wXaoKroEnp4
 * Deep Dive into the Angular Compiler | Alex Rickabaugh https://youtu.be/anphffaCZrQ
 * CRDTs and the Quest for Distributed Consistency https://youtu.be/B5NULPSiOGw?list=PLjIz47fNzNQQXSPPRdeiUyReQ25Rhe9LK
 * Кирилл Черкашин — Работаем с абстрактными синтаксическими деревьями JavaScript https://youtu.be/ILSpvViUlPU?list=WL
@@ -11,7 +13,6 @@
 * The main thread is overworked & underpaid (Chrome Dev Summit 2019) https://youtu.be/7Rrv9qFMWNM
 * Процесс создания сложных анимаций в веб / Наталья Габитова, Егор Савинцев  https://www.youtube.com/watch?v=E-UMYRu_g2U
 * Роман Дворнов — CSS definition syntax https://youtu.be/8kjE1n6mQ2s
-* Пусть всем кажется, что всё грузится быстро / Виктор Русакович (GP Solutions) https://youtu.be/ODWakh7Tl9s
 * Самый мягкий и пушистый путь в Machine Learning и Deep Neural Networks / Алексей Охрименко (Avito) https://youtu.be/BX2M8t5BA3s
 * Profiling Paint Perf  - https://youtu.be/Wfxm56ttAmE https://youtu.be/W4zp79QyDXA
 * Алексей Козятинский — Отладка JS на примере Chrome DevTools - https://www.youtube.com/watch?v=kBHUEFYawTk&t=0s&list=WL&index=141
@@ -142,3 +143,4 @@
 * _ ___ ______? / Вадим Макеев (HTML Academy) https://www.youtube.com/watch?v=uI3Q5m9xkkw
 * Максим Корецкий - Front end development and change detection https://youtu.be/zK7ah1f6oTU
 * Ответ на главный вопрос в CSS, Михаил Иванкив - https://www.youtube.com/watch?v=cO2-zYzjyD0
+* Пусть всем кажется, что всё грузится быстро / Виктор Русакович (GP Solutions) https://youtu.be/ODWakh7Tl9s
