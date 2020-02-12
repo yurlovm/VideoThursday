@@ -2,8 +2,6 @@
 
 ### Pool
 * HolyJS Дмитрий Пацура — Микросервисная архитектура https://youtu.be/wXaoKroEnp4
-* Deep Dive into the Angular Compiler | Alex Rickabaugh https://youtu.be/anphffaCZrQ
-* CRDTs and the Quest for Distributed Consistency https://youtu.be/B5NULPSiOGw?list=PLjIz47fNzNQQXSPPRdeiUyReQ25Rhe9LK
 * Зар Захаров — История о том, как мы в банке JS-сервисы встраивали в нативное приложение https://youtu.be/RCkqblvwFQo
 * Дмитрий Бежецков, Владимир Ануфриенко — Портирование JS на Эльбрус https://youtu.be/1zWUN6y2WbI?list=WL
 * Let’s build a JavaScript Engine in Rust by Jason Williams | JSConf EU 2019 https://youtu.be/_uD2pijcSi4?list=PLjIz47fNzNQQXSPPRdeiUyReQ25Rhe9LK
@@ -13,7 +11,6 @@
 * Роман Дворнов — CSS definition syntax https://youtu.be/8kjE1n6mQ2s
 * Самый мягкий и пушистый путь в Machine Learning и Deep Neural Networks / Алексей Охрименко (Avito) https://youtu.be/BX2M8t5BA3s
 * Алексей Козятинский — Отладка JS на примере Chrome DevTools - https://www.youtube.com/watch?v=kBHUEFYawTk
-* Future JavaScript: what is still missing? | Dr. Axel Rauschmayer https://youtu.be/XYAgmj527PU
 * PiterJS #21 - Илья Кашлаков - Рефакторинг платежного процесса Яндекс.Денег https://youtu.be/-wM-JmF1-VM
 * Angular and the OWASP top 10 | Philippe De Ryck https://youtu.be/jc0YYLLEol0
 * Philippe De Ryck - Cookies versus tokens: a paradoxical choice https://youtu.be/9ZOpUtQ_4Uk
