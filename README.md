@@ -12,8 +12,27 @@
 * PiterJS #21 - Илья Кашлаков - Рефакторинг платежного процесса Яндекс.Денег https://youtu.be/-wM-JmF1-VM
 * Angular and the OWASP top 10 | Philippe De Ryck https://youtu.be/jc0YYLLEol0
 * Philippe De Ryck - Cookies versus tokens: a paradoxical choice https://youtu.be/9ZOpUtQ_4Uk
-* Виктор Грищенко — Децентрализованный веб https://youtu.be/lROd9NUBP5Q
 * Закэшируй это / Всеволод Шмыров - https://www.youtube.com/watch?v=1WrPLJmjJ6I
+* Алексей Богачук – Безопасность: уязвимости вашего приложения https://youtu.be/2gthjl2Lks4?list=PLjIz47fNzNQQghw50_EEynVyWGNrRxBYo
+* Артём Кобзарь — Как и зачем я пишу свой статический типизатор https://youtu.be/GIHrPm_YAIc?list=WL
+* Андрей Роенко — WebAssembly без купюр https://youtu.be/h3kwQ7nbGb4
+* Andrey Melikhov I How we are creating the new platform https://youtu.be/uC36IJLlBJ0
+* Nikolay Matvienko I Build and automate serverless ETL job orchestration with AWS Lambda https://youtu.be/cFmvk_SHuKA
+* Как мы разбили клиент miro.com на ленивые модули / Олег Плотников (Miro) https://youtu.be/6gCMo0NqL00
+* Logux — новый способ связи клиента и сервера — Андрей Ситник https://youtu.be/1RMhUPsVw2M
+* Виктор Грищенко — Swarm: синхронизируем рой устройств https://youtu.be/1ddm7WCMclA
+* Как я однажды верстал форму регистрации, Михайло Иванкив https://youtu.be/C5vIEHHG1aA
+* React Concurrent Mode, Павел Смолин https://youtu.be/5JGrm9O5MsM
+* Фронтопс? Серьёзно? Анна Селезнёва https://youtu.be/yWPAW59e1AU
+* Тег a, Никита Дубко https://youtu.be/_UmMLsIeK9k
+* Вячеслав Шебанов — Системы типов в двух словах https://youtu.be/nFtO6419A5k
+* Александр Коротаев — JS-битва: как я написал свой eval() https://youtu.be/TJ7TGk5WJ5k
+* Ari Lerner — Building cross-platform mobile apps with Flutter.io https://youtu.be/HRELNstRkKc
+* Marko Letic — Bringing mixed reality to the web https://youtu.be/XumBgejSxKs
+* Илья Климов — Надежный JavaScript: в погоне за мифом https://youtu.be/o9zh5EHrpQA
+* Андрей Прокопюк — Системный подход к скорости во фронтенде: онлайн-измерения https://youtu.be/Whm2FMBIgA0
+* Алексей Калмаков — Системный подход к скорости во фронтенде: оффлайн-измерения https://youtu.be/TzCMDlYMydA
+
 ---
 
 
@@ -102,17 +121,17 @@
 * Luca Mezzalira & Max Gallo You Don't Know Microfrontends https://youtu.be/fl6F-f454to?list=LLvIgD6w0x5QK5e23xDw3IEQ
 * 004. Разрываем монолит - Андрей Мелихов, Роман Бабанов https://youtu.be/4hojifgc4wA
 * Фронтенд-приложения как микросервисы / Владимир Санников (Точка) https://youtu.be/pcb2rOX_9Dg
-* Роман Дворнов — Каталог компонентов: переосмысление https://youtu.be/zZUbXAVV-HA?list=WL
+* Роман Дворнов — Каталог компонентов: переосмысление https://youtu.be/zZUbXAVV-HA
 * Куда растут библиотеки компонентов | Тим Чаптыков, VK | SPA Meetup #5 https://youtu.be/1utWz-CYiLU
 * Платформенная команда: пособие по применению | Александр Казаченко, Тинькофф | SPA Meetup #5 https://youtu.be/Y61bQAfgW70
-* WebAssembly's Post-MVP Future - Lin Clark & Till Schneidereit | JSHeroes 2019 https://youtu.be/ZZ3uj-2H6-w?list=WL
-* MoscowJS 41 - Опыт использования WebRTC – Григорий Кузнецов https://youtu.be/gQlQwG4vn28?list=WL
+* WebAssembly's Post-MVP Future - Lin Clark & Till Schneidereit | JSHeroes 2019 https://youtu.be/ZZ3uj-2H6-w
+* MoscowJS 41 - Опыт использования WebRTC – Григорий Кузнецов https://youtu.be/gQlQwG4vn28
 * Containerizing Angular with Docker  - https://www.youtube.com/watch?v=cLT7eUWKZpg
-* Николай Матвиенко — Декомпозиция Main Thread в Node.js для увеличения пропускной способности https://youtu.be/Mfz1_blLl9Q?list=WL
+* Николай Матвиенко — Декомпозиция Main Thread в Node.js для увеличения пропускной способности https://youtu.be/Mfz1_blLl9Q
 * How we make Angular fast | Miško Hevery  https://www.youtube.com/watch?v=EqSRpkMRyY4
 * The secrets behind Angular’s lightning speed | Max Koretskyi https://youtu.be/nQ8oJ1rpwIc
-* 08. Houdini CSS, который JavaScript – Никита Дубко https://youtu.be/yyVU-r9sRw8?list=WL
-* State of Houdini (Chrome Dev Summit 2018) https://youtu.be/lK3OiJvwgSc?list=WL
+* 08. Houdini CSS, который JavaScript – Никита Дубко https://youtu.be/yyVU-r9sRw8
+* State of Houdini (Chrome Dev Summit 2018) https://youtu.be/lK3OiJvwgSc
 * Знай свой JIT: ближе к машине / Андрей Мелихов - https://www.youtube.com/watch?v=cgquEDC0Ko4
 * JavaScript Engines: The Good Parts™ - Mathias Bynens & Benedikt Meurer - JSConf EU 2018 https://www.youtube.com/watch?v=5nmpokoRaZI 
 * История про моделирование «по-быстрому» / Александр Прибыткин (МегаФон) https://www.youtube.com/watch?v=hQfglqE18Jo
@@ -120,7 +139,7 @@
 * Масштабируемая архитектура фронтенда — Роман Дворнов, Avito https://youtu.be/z9y6PNC2FL0
 * Building with Ivy: rethinking reactive Angular | Mike Ryan https://youtu.be/rz-rcaGXhGk
 * How Angular works | Kara Erickson https://youtu.be/S0o-4yc2n-8
-* Ruben Bridgewater — Error handling: doing it right! https://youtu.be/bJ3glfA-jqo?list=WL
+* Ruben Bridgewater — Error handling: doing it right! https://youtu.be/bJ3glfA-jqo
 * Illya Klymov - Взгляд на VueJS изнутри https://youtu.be/FaLNqrHYbXg
 * Alex Slepchenkov - JAMstack и с чем его едят https://youtu.be/b1ZnAmIXXAQ
 * LongestJS: Денис Колесников — npm understand --with-improves https://youtu.be/Cz6bQw1f23s
@@ -132,9 +151,10 @@
 * Максим Корецкий - Front end development and change detection https://youtu.be/zK7ah1f6oTU
 * Ответ на главный вопрос в CSS, Михаил Иванкив - https://www.youtube.com/watch?v=cO2-zYzjyD0
 * Пусть всем кажется, что всё грузится быстро / Виктор Русакович (GP Solutions) https://youtu.be/ODWakh7Tl9s
-* Кирилл Черкашин — Работаем с абстрактными синтаксическими деревьями JavaScript https://youtu.be/ILSpvViUlPU?list=WL
+* Кирилл Черкашин — Работаем с абстрактными синтаксическими деревьями JavaScript https://youtu.be/ILSpvViUlPU
 * Profiling Paint Perf  - https://youtu.be/Wfxm56ttAmE https://youtu.be/W4zp79QyDXA
 * Распространенные ошибки при написании юнит-тестов, Катерина Павленко - https://www.youtube.com/watch?v=g5VETJqI6uc
 * Feature toggles: back then and now | Владимир Игнатов, Авито https://youtu.be/wxB6Vzo_Xzc
+* Виктор Грищенко — Децентрализованный веб https://youtu.be/lROd9NUBP5Q
 * Алексей Козятинский — Отладка JS на примере Chrome DevTools - https://www.youtube.com/watch?v=kBHUEFYawTk
 * The main thread is overworked & underpaid (Chrome Dev Summit 2019) https://youtu.be/7Rrv9qFMWNM
