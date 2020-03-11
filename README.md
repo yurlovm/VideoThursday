@@ -1,6 +1,9 @@
 # VideoThursday
 
 ### Pool
+
+* Алексей Богачук — Solution architecture и JavaScript https://youtu.be/UVRi9LoFyfI
+* Алексей Богачук – Безопасность: уязвимости вашего приложения https://youtu.be/2gthjl2Lks4
 * HolyJS Дмитрий Пацура — Микросервисная архитектура https://youtu.be/wXaoKroEnp4
 * Зар Захаров — История о том, как мы в банке JS-сервисы встраивали в нативное приложение https://youtu.be/RCkqblvwFQo
 * Дмитрий Бежецков, Владимир Ануфриенко — Портирование JS на Эльбрус https://youtu.be/1zWUN6y2WbI?list=WL
@@ -13,13 +16,10 @@
 * Angular and the OWASP top 10 | Philippe De Ryck https://youtu.be/jc0YYLLEol0
 * Philippe De Ryck - Cookies versus tokens: a paradoxical choice https://youtu.be/9ZOpUtQ_4Uk
 * Закэшируй это / Всеволод Шмыров - https://www.youtube.com/watch?v=1WrPLJmjJ6I
-* Алексей Богачук – Безопасность: уязвимости вашего приложения https://youtu.be/2gthjl2Lks4?list=PLjIz47fNzNQQghw50_EEynVyWGNrRxBYo
-* Артём Кобзарь — Как и зачем я пишу свой статический типизатор https://youtu.be/GIHrPm_YAIc?list=WL
-* Андрей Роенко — WebAssembly без купюр https://youtu.be/h3kwQ7nbGb4
+* Артём Кобзарь — Как и зачем я пишу свой статический типизатор https://youtu.be/GIHrPm_YAIc
 * Andrey Melikhov I How we are creating the new platform https://youtu.be/uC36IJLlBJ0
 * Nikolay Matvienko I Build and automate serverless ETL job orchestration with AWS Lambda https://youtu.be/cFmvk_SHuKA
 * Как мы разбили клиент miro.com на ленивые модули / Олег Плотников (Miro) https://youtu.be/6gCMo0NqL00
-* Виктор Грищенко — Swarm: синхронизируем рой устройств https://youtu.be/1ddm7WCMclA
 * Как я однажды верстал форму регистрации, Михайло Иванкив https://youtu.be/C5vIEHHG1aA
 * React Concurrent Mode, Павел Смолин https://youtu.be/5JGrm9O5MsM
 * Фронтопс? Серьёзно? Анна Селезнёва https://youtu.be/yWPAW59e1AU
@@ -31,7 +31,6 @@
 * Илья Климов — Надежный JavaScript: в погоне за мифом https://youtu.be/o9zh5EHrpQA
 * Андрей Прокопюк — Системный подход к скорости во фронтенде: онлайн-измерения https://youtu.be/Whm2FMBIgA0
 * Алексей Калмаков — Системный подход к скорости во фронтенде: оффлайн-измерения https://youtu.be/TzCMDlYMydA
-* Алексей Богачук — Solution architecture и JavaScript https://youtu.be/UVRi9LoFyfI
 ---
 
 
@@ -158,3 +157,4 @@
 * Алексей Козятинский — Отладка JS на примере Chrome DevTools - https://www.youtube.com/watch?v=kBHUEFYawTk
 * The main thread is overworked & underpaid (Chrome Dev Summit 2019) https://youtu.be/7Rrv9qFMWNM
 * Logux — новый способ связи клиента и сервера — Андрей Ситник https://youtu.be/1RMhUPsVw2M
+* Андрей Роенко — WebAssembly без купюр https://youtu.be/h3kwQ7nbGb4
