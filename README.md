@@ -2,7 +2,6 @@
 
 ### Pool
 
-* Алексей Богачук — Solution architecture и JavaScript https://youtu.be/UVRi9LoFyfI
 * Алексей Богачук – Безопасность: уязвимости вашего приложения https://youtu.be/2gthjl2Lks4
 * HolyJS Дмитрий Пацура — Микросервисная архитектура https://youtu.be/wXaoKroEnp4
 * Зар Захаров — История о том, как мы в банке JS-сервисы встраивали в нативное приложение https://youtu.be/RCkqblvwFQo
@@ -158,3 +157,4 @@
 * The main thread is overworked & underpaid (Chrome Dev Summit 2019) https://youtu.be/7Rrv9qFMWNM
 * Logux — новый способ связи клиента и сервера — Андрей Ситник https://youtu.be/1RMhUPsVw2M
 * Андрей Роенко — WebAssembly без купюр https://youtu.be/h3kwQ7nbGb4
+* Алексей Богачук — Solution architecture и JavaScript https://youtu.be/UVRi9LoFyfI
