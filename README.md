@@ -7,7 +7,6 @@
 * Зар Захаров — История о том, как мы в банке JS-сервисы встраивали в нативное приложение https://youtu.be/RCkqblvwFQo
 * Дмитрий Бежецков, Владимир Ануфриенко — Портирование JS на Эльбрус https://youtu.be/1zWUN6y2WbI?list=WL
 * Let’s build a JavaScript Engine in Rust by Jason Williams | JSConf EU 2019 https://youtu.be/_uD2pijcSi4?list=PLjIz47fNzNQQXSPPRdeiUyReQ25Rhe9LK
-* Андрей Мелихов — Node.js в энтерпрайзе: почему и как https://youtu.be/MPQ92gxEKlE?list=WL
 * Процесс создания сложных анимаций в веб / Наталья Габитова, Егор Савинцев  https://www.youtube.com/watch?v=E-UMYRu_g2U
 * Роман Дворнов — CSS definition syntax https://youtu.be/8kjE1n6mQ2s
 * Самый мягкий и пушистый путь в Machine Learning и Deep Neural Networks / Алексей Охрименко (Avito) https://youtu.be/BX2M8t5BA3s
@@ -15,10 +14,7 @@
 * Angular and the OWASP top 10 | Philippe De Ryck https://youtu.be/jc0YYLLEol0
 * Philippe De Ryck - Cookies versus tokens: a paradoxical choice https://youtu.be/9ZOpUtQ_4Uk
 * Закэшируй это / Всеволод Шмыров - https://www.youtube.com/watch?v=1WrPLJmjJ6I
-* Артём Кобзарь — Как и зачем я пишу свой статический типизатор https://youtu.be/GIHrPm_YAIc
-* Andrey Melikhov I How we are creating the new platform https://youtu.be/uC36IJLlBJ0
 * Nikolay Matvienko I Build and automate serverless ETL job orchestration with AWS Lambda https://youtu.be/cFmvk_SHuKA
-* Как мы разбили клиент miro.com на ленивые модули / Олег Плотников (Miro) https://youtu.be/6gCMo0NqL00
 * Как я однажды верстал форму регистрации, Михайло Иванкив https://youtu.be/C5vIEHHG1aA
 * React Concurrent Mode, Павел Смолин https://youtu.be/5JGrm9O5MsM
 * Фронтопс? Серьёзно? Анна Селезнёва https://youtu.be/yWPAW59e1AU
@@ -30,6 +26,8 @@
 * Илья Климов — Надежный JavaScript: в погоне за мифом https://youtu.be/o9zh5EHrpQA
 * Андрей Прокопюк — Системный подход к скорости во фронтенде: онлайн-измерения https://youtu.be/Whm2FMBIgA0
 * Алексей Калмаков — Системный подход к скорости во фронтенде: оффлайн-измерения https://youtu.be/TzCMDlYMydA
+* HTML: The Good Parts - Вадим Макеев https://youtu.be/A4tglcel7Ac
+* ApolloClient 3 — прощаемся с Redux, REST API и Relay - Павел Черторогов https://youtu.be/5h7zX45YPuQ
 ---
 
 
@@ -158,3 +156,5 @@
 * Logux — новый способ связи клиента и сервера — Андрей Ситник https://youtu.be/1RMhUPsVw2M
 * Андрей Роенко — WebAssembly без купюр https://youtu.be/h3kwQ7nbGb4
 * Алексей Богачук — Solution architecture и JavaScript https://youtu.be/UVRi9LoFyfI
+* Артём Кобзарь — Как и зачем я пишу свой статический типизатор https://youtu.be/GIHrPm_YAIc
+* Как мы разбили клиент miro.com на ленивые модули / Олег Плотников (Miro) https://youtu.be/6gCMo0NqL00
