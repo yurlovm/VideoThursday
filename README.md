@@ -2,7 +2,6 @@
 
 ### Pool
 
-* Алексей Богачук – Безопасность: уязвимости вашего приложения https://youtu.be/2gthjl2Lks4
 * HolyJS Дмитрий Пацура — Микросервисная архитектура https://youtu.be/wXaoKroEnp4
 * Зар Захаров — История о том, как мы в банке JS-сервисы встраивали в нативное приложение https://youtu.be/RCkqblvwFQo
 * Дмитрий Бежецков, Владимир Ануфриенко — Портирование JS на Эльбрус https://youtu.be/1zWUN6y2WbI?list=WL
@@ -158,3 +157,4 @@
 * Алексей Богачук — Solution architecture и JavaScript https://youtu.be/UVRi9LoFyfI
 * Артём Кобзарь — Как и зачем я пишу свой статический типизатор https://youtu.be/GIHrPm_YAIc
 * Как мы разбили клиент miro.com на ленивые модули / Олег Плотников (Miro) https://youtu.be/6gCMo0NqL00
+* Алексей Богачук – Безопасность: уязвимости вашего приложения https://youtu.be/2gthjl2Lks4
