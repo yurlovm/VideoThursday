@@ -14,9 +14,7 @@
 * Philippe De Ryck - Cookies versus tokens: a paradoxical choice https://youtu.be/9ZOpUtQ_4Uk
 * Закэшируй это / Всеволод Шмыров - https://www.youtube.com/watch?v=1WrPLJmjJ6I
 * Nikolay Matvienko I Build and automate serverless ETL job orchestration with AWS Lambda https://youtu.be/cFmvk_SHuKA
-* Как я однажды верстал форму регистрации, Михайло Иванкив https://youtu.be/C5vIEHHG1aA
 * React Concurrent Mode, Павел Смолин https://youtu.be/5JGrm9O5MsM
-* Фронтопс? Серьёзно? Анна Селезнёва https://youtu.be/yWPAW59e1AU
 * Тег a, Никита Дубко https://youtu.be/_UmMLsIeK9k
 * Вячеслав Шебанов — Системы типов в двух словах https://youtu.be/nFtO6419A5k
 * Александр Коротаев — JS-битва: как я написал свой eval() https://youtu.be/TJ7TGk5WJ5k
@@ -158,3 +156,5 @@
 * Артём Кобзарь — Как и зачем я пишу свой статический типизатор https://youtu.be/GIHrPm_YAIc
 * Как мы разбили клиент miro.com на ленивые модули / Олег Плотников (Miro) https://youtu.be/6gCMo0NqL00
 * Алексей Богачук – Безопасность: уязвимости вашего приложения https://youtu.be/2gthjl2Lks4
+* Как я однажды верстал форму регистрации, Михайло Иванкив https://youtu.be/C5vIEHHG1aA
+* Фронтопс? Серьёзно? Анна Селезнёва https://youtu.be/yWPAW59e1AU
