@@ -2,6 +2,14 @@
 
 ### Pool
 
+* Miguel Angel Duran Garcia — React rendering strategies https://youtu.be/NythxcOI2Mw?list=WL
+* Nicolò Ribaudo — @babel/how-to https://youtu.be/UeVq_U5obnE
+* Андрей Оконечников — Resilient Component Libraries with React https://youtu.be/1U9oGd3VD9w
+* Артём Арутюнян — Контрактное программирование как средство, а не цель https://youtu.be/K91G6na4ga8
+* Lucas Fernandes da Costa — Computability, types, tests, and why flat earthers are bad at QA https://youtu.be/SKBgrJg2mH4
+* Дмитрий Пацура — Разработка компилятора для TypeScript на TypeScript на базе LLVM https://youtu.be/gS9a_NBHdw0
+* Виталий Брагилевский — JavaScript на службе у теоретической информатики https://youtu.be/T66wMYbtfNA
+* Павел Черторогов — GraphQL-фрагменты на клиенте: История появления, ошибки использования https://youtu.be/0bpZiMVJh14
 * HolyJS Дмитрий Пацура — Микросервисная архитектура https://youtu.be/wXaoKroEnp4
 * Зар Захаров — История о том, как мы в банке JS-сервисы встраивали в нативное приложение https://youtu.be/RCkqblvwFQo
 * Дмитрий Бежецков, Владимир Ануфриенко — Портирование JS на Эльбрус https://youtu.be/1zWUN6y2WbI?list=WL
