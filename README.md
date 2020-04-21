@@ -8,7 +8,6 @@
 * Артём Арутюнян — Контрактное программирование как средство, а не цель https://youtu.be/K91G6na4ga8
 * Lucas Fernandes da Costa — Computability, types, tests, and why flat earthers are bad at QA https://youtu.be/SKBgrJg2mH4
 * Дмитрий Пацура — Разработка компилятора для TypeScript на TypeScript на базе LLVM https://youtu.be/gS9a_NBHdw0
-* Виталий Брагилевский — JavaScript на службе у теоретической информатики https://youtu.be/T66wMYbtfNA
 * Павел Черторогов — GraphQL-фрагменты на клиенте: История появления, ошибки использования https://youtu.be/0bpZiMVJh14
 * HolyJS Дмитрий Пацура — Микросервисная архитектура https://youtu.be/wXaoKroEnp4
 * Зар Захаров — История о том, как мы в банке JS-сервисы встраивали в нативное приложение https://youtu.be/RCkqblvwFQo
@@ -166,3 +165,4 @@
 * Алексей Богачук – Безопасность: уязвимости вашего приложения https://youtu.be/2gthjl2Lks4
 * Как я однажды верстал форму регистрации, Михайло Иванкив https://youtu.be/C5vIEHHG1aA
 * Фронтопс? Серьёзно? Анна Селезнёва https://youtu.be/yWPAW59e1AU
+* Виталий Брагилевский — JavaScript на службе у теоретической информатики https://youtu.be/T66wMYbtfNA
