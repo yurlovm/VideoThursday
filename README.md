@@ -8,7 +8,6 @@
 * Артём Арутюнян — Контрактное программирование как средство, а не цель https://youtu.be/K91G6na4ga8
 * Lucas Fernandes da Costa — Computability, types, tests, and why flat earthers are bad at QA https://youtu.be/SKBgrJg2mH4
 * Дмитрий Пацура — Разработка компилятора для TypeScript на TypeScript на базе LLVM https://youtu.be/gS9a_NBHdw0
-* Павел Черторогов — GraphQL-фрагменты на клиенте: История появления, ошибки использования https://youtu.be/0bpZiMVJh14
 * HolyJS Дмитрий Пацура — Микросервисная архитектура https://youtu.be/wXaoKroEnp4
 * Зар Захаров — История о том, как мы в банке JS-сервисы встраивали в нативное приложение https://youtu.be/RCkqblvwFQo
 * Дмитрий Бежецков, Владимир Ануфриенко — Портирование JS на Эльбрус https://youtu.be/1zWUN6y2WbI?list=WL
@@ -28,7 +27,6 @@
 * Ari Lerner — Building cross-platform mobile apps with Flutter.io https://youtu.be/HRELNstRkKc
 * Marko Letic — Bringing mixed reality to the web https://youtu.be/XumBgejSxKs
 * Илья Климов — Надежный JavaScript: в погоне за мифом https://youtu.be/o9zh5EHrpQA
-* Андрей Прокопюк — Системный подход к скорости во фронтенде: онлайн-измерения https://youtu.be/Whm2FMBIgA0
 * Алексей Калмаков — Системный подход к скорости во фронтенде: оффлайн-измерения https://youtu.be/TzCMDlYMydA
 * HTML: The Good Parts - Вадим Макеев https://youtu.be/A4tglcel7Ac
 * ApolloClient 3 — прощаемся с Redux, REST API и Relay - Павел Черторогов https://youtu.be/5h7zX45YPuQ
@@ -166,3 +164,5 @@
 * Как я однажды верстал форму регистрации, Михайло Иванкив https://youtu.be/C5vIEHHG1aA
 * Фронтопс? Серьёзно? Анна Селезнёва https://youtu.be/yWPAW59e1AU
 * Виталий Брагилевский — JavaScript на службе у теоретической информатики https://youtu.be/T66wMYbtfNA
+* Павел Черторогов — GraphQL-фрагменты на клиенте: История появления, ошибки использования https://youtu.be/0bpZiMVJh14
+* Андрей Прокопюк — Системный подход к скорости во фронтенде: онлайн-измерения https://youtu.be/Whm2FMBIgA0
