@@ -4,7 +4,6 @@
 
 * Miguel Angel Duran Garcia — React rendering strategies https://youtu.be/NythxcOI2Mw
 * Nicolò Ribaudo — @babel/how-to https://youtu.be/UeVq_U5obnE
-* Андрей Оконечников — Resilient Component Libraries with React https://youtu.be/1U9oGd3VD9w
 * Артём Арутюнян — Контрактное программирование как средство, а не цель https://youtu.be/K91G6na4ga8
 * Lucas Fernandes da Costa — Computability, types, tests, and why flat earthers are bad at QA https://youtu.be/SKBgrJg2mH4
 * Дмитрий Пацура — Разработка компилятора для TypeScript на TypeScript на базе LLVM https://youtu.be/gS9a_NBHdw0
@@ -22,7 +21,6 @@
 * Ari Lerner — Building cross-platform mobile apps with Flutter.io https://youtu.be/HRELNstRkKc
 * Marko Letic — Bringing mixed reality to the web https://youtu.be/XumBgejSxKs
 * Илья Климов — Надежный JavaScript: в погоне за мифом https://youtu.be/o9zh5EHrpQA
-* Алексей Калмаков — Системный подход к скорости во фронтенде: оффлайн-измерения https://youtu.be/TzCMDlYMydA
 * HTML: The Good Parts - Вадим Макеев https://youtu.be/A4tglcel7Ac
 * ApolloClient 3 — прощаемся с Redux, REST API и Relay - Павел Черторогов https://youtu.be/5h7zX45YPuQ
 ---
@@ -162,3 +160,5 @@
 * Павел Черторогов — GraphQL-фрагменты на клиенте: История появления, ошибки использования https://youtu.be/0bpZiMVJh14
 * Андрей Прокопюк — Системный подход к скорости во фронтенде: онлайн-измерения https://youtu.be/Whm2FMBIgA0
 * Виктор Турский. 6 способов взломать твое JavaScript приложение. JS Fest 2019 Spring https://youtu.be/tBXZRC1f34E
+* Алексей Калмаков — Системный подход к скорости во фронтенде: оффлайн-измерения https://youtu.be/TzCMDlYMydA
+* Андрей Оконечников — Resilient Component Libraries with React https://youtu.be/1U9oGd3VD9w
