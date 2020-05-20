@@ -23,6 +23,7 @@
 * Илья Климов — Надежный JavaScript: в погоне за мифом https://youtu.be/o9zh5EHrpQA
 * HTML: The Good Parts - Вадим Макеев https://youtu.be/A4tglcel7Ac
 * ApolloClient 3 — прощаемся с Redux, REST API и Relay - Павел Черторогов https://youtu.be/5h7zX45YPuQ
+* Marko Letic — Bringing mixed reality to the web https://youtu.be/XumBgejSxKs
 ---
 
 
