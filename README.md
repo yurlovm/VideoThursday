@@ -21,7 +21,6 @@
 * Ari Lerner — Building cross-platform mobile apps with Flutter.io https://youtu.be/HRELNstRkKc
 * Marko Letic — Bringing mixed reality to the web https://youtu.be/XumBgejSxKs
 * Илья Климов — Надежный JavaScript: в погоне за мифом https://youtu.be/o9zh5EHrpQA
-* HTML: The Good Parts - Вадим Макеев https://youtu.be/A4tglcel7Ac
 * ApolloClient 3 — прощаемся с Redux, REST API и Relay - Павел Черторогов https://youtu.be/5h7zX45YPuQ
 * Marko Letic — Bringing mixed reality to the web https://youtu.be/XumBgejSxKs
 ---
@@ -163,3 +162,4 @@
 * Виктор Турский. 6 способов взломать твое JavaScript приложение. JS Fest 2019 Spring https://youtu.be/tBXZRC1f34E
 * Алексей Калмаков — Системный подход к скорости во фронтенде: оффлайн-измерения https://youtu.be/TzCMDlYMydA
 * Андрей Оконечников — Resilient Component Libraries with React https://youtu.be/1U9oGd3VD9w
+* HTML: The Good Parts - Вадим Макеев https://youtu.be/A4tglcel7Ac
