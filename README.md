@@ -14,8 +14,6 @@
 * Angular and the OWASP top 10 | Philippe De Ryck https://youtu.be/jc0YYLLEol0
 * Philippe De Ryck - Cookies versus tokens: a paradoxical choice https://youtu.be/9ZOpUtQ_4Uk
 * Закэшируй это / Всеволод Шмыров - https://www.youtube.com/watch?v=1WrPLJmjJ6I
-* React Concurrent Mode, Павел Смолин https://youtu.be/5JGrm9O5MsM
-* Тег a, Никита Дубко https://youtu.be/_UmMLsIeK9k
 * Вячеслав Шебанов — Системы типов в двух словах https://youtu.be/nFtO6419A5k
 * Александр Коротаев — JS-битва: как я написал свой eval() https://youtu.be/TJ7TGk5WJ5k
 * Ari Lerner — Building cross-platform mobile apps with Flutter.io https://youtu.be/HRELNstRkKc
@@ -24,7 +22,6 @@
 * ApolloClient 3 — прощаемся с Redux, REST API и Relay - Павел Черторогов https://youtu.be/5h7zX45YPuQ
 * Marko Letic — Bringing mixed reality to the web https://youtu.be/XumBgejSxKs
 ---
-
 
 
 # Watched
@@ -163,3 +160,5 @@
 * Алексей Калмаков — Системный подход к скорости во фронтенде: оффлайн-измерения https://youtu.be/TzCMDlYMydA
 * Андрей Оконечников — Resilient Component Libraries with React https://youtu.be/1U9oGd3VD9w
 * HTML: The Good Parts - Вадим Макеев https://youtu.be/A4tglcel7Ac
+* Тег a, Никита Дубко https://youtu.be/_UmMLsIeK9k
+* React Concurrent Mode, Павел Смолин https://youtu.be/5JGrm9O5MsM
