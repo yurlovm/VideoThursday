@@ -14,7 +14,6 @@
 * Angular and the OWASP top 10 | Philippe De Ryck https://youtu.be/jc0YYLLEol0
 * Philippe De Ryck - Cookies versus tokens: a paradoxical choice https://youtu.be/9ZOpUtQ_4Uk
 * Закэшируй это / Всеволод Шмыров - https://www.youtube.com/watch?v=1WrPLJmjJ6I
-* Вячеслав Шебанов — Системы типов в двух словах https://youtu.be/nFtO6419A5k
 * Александр Коротаев — JS-битва: как я написал свой eval() https://youtu.be/TJ7TGk5WJ5k
 * Ari Lerner — Building cross-platform mobile apps with Flutter.io https://youtu.be/HRELNstRkKc
 * Илья Климов — Надежный JavaScript: в погоне за мифом https://youtu.be/o9zh5EHrpQA
@@ -161,3 +160,4 @@
 * HTML: The Good Parts - Вадим Макеев https://youtu.be/A4tglcel7Ac
 * Тег a, Никита Дубко https://youtu.be/_UmMLsIeK9k
 * React Concurrent Mode, Павел Смолин https://youtu.be/5JGrm9O5MsM
+* Вячеслав Шебанов — Системы типов в двух словах https://youtu.be/nFtO6419A5k
