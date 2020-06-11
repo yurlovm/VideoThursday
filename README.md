@@ -17,7 +17,6 @@
 * Ari Lerner — Building cross-platform mobile apps with Flutter.io https://youtu.be/HRELNstRkKc
 * Илья Климов — Надежный JavaScript: в погоне за мифом https://youtu.be/o9zh5EHrpQA
 * ApolloClient 3 — прощаемся с Redux, REST API и Relay - Павел Черторогов https://youtu.be/5h7zX45YPuQ
-* Marko Letic — Bringing mixed reality to the web https://youtu.be/XumBgejSxKs
 ---
 
 
@@ -160,3 +159,4 @@
 * Тег a, Никита Дубко https://youtu.be/_UmMLsIeK9k
 * React Concurrent Mode, Павел Смолин https://youtu.be/5JGrm9O5MsM
 * Вячеслав Шебанов — Системы типов в двух словах https://youtu.be/nFtO6419A5k
+* Marko Letic — Bringing mixed reality to the web https://youtu.be/XumBgejSxKs
