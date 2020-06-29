@@ -9,11 +9,7 @@
 * Дмитрий Пацура — Разработка компилятора для TypeScript на TypeScript на базе LLVM https://youtu.be/gS9a_NBHdw0
 * Дмитрий Бежецков, Владимир Ануфриенко — Портирование JS на Эльбрус https://youtu.be/1zWUN6y2WbI
 * Самый мягкий и пушистый путь в Machine Learning и Deep Neural Networks / Алексей Охрименко (Avito) https://youtu.be/BX2M8t5BA3s
-* Angular and the OWASP top 10 | Philippe De Ryck https://youtu.be/jc0YYLLEol0
-* Philippe De Ryck - Cookies versus tokens: a paradoxical choice https://youtu.be/9ZOpUtQ_4Uk
-* Закэшируй это / Всеволод Шмыров - https://www.youtube.com/watch?v=1WrPLJmjJ6I
 * Александр Коротаев — JS-битва: как я написал свой eval() https://youtu.be/TJ7TGk5WJ5k
-* Ari Lerner — Building cross-platform mobile apps with Flutter.io https://youtu.be/HRELNstRkKc
 * Илья Климов — Надежный JavaScript: в погоне за мифом https://youtu.be/o9zh5EHrpQA
 * ApolloClient 3 — прощаемся с Redux, REST API и Relay - Павел Черторогов https://youtu.be/5h7zX45YPuQ
 * Александр Инкин | Нативные API и Angular https://youtu.be/G4qftFVsJj8
