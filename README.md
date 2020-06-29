@@ -16,6 +16,10 @@
 * Ari Lerner — Building cross-platform mobile apps with Flutter.io https://youtu.be/HRELNstRkKc
 * Илья Климов — Надежный JavaScript: в погоне за мифом https://youtu.be/o9zh5EHrpQA
 * ApolloClient 3 — прощаемся с Redux, REST API и Relay - Павел Черторогов https://youtu.be/5h7zX45YPuQ
+* Александр Инкин | Нативные API и Angular https://youtu.be/G4qftFVsJj8
+* Никита Полторацкий | Будущее навигации в веб. Разбираемся с Portals API https://youtu.be/l_UaLiqct4Q
+* Полина Гуртовая | WebAssembly: Приручи дракона https://youtu.be/ehPucx9he5U
+
 ---
 
 
