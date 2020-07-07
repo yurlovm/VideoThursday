@@ -12,7 +12,6 @@
 * Александр Коротаев — JS-битва: как я написал свой eval() https://youtu.be/TJ7TGk5WJ5k
 * Илья Климов — Надежный JavaScript: в погоне за мифом https://youtu.be/o9zh5EHrpQA
 * ApolloClient 3 — прощаемся с Redux, REST API и Relay - Павел Черторогов https://youtu.be/5h7zX45YPuQ
-* Александр Инкин | Нативные API и Angular https://youtu.be/G4qftFVsJj8
 * Никита Полторацкий | Будущее навигации в веб. Разбираемся с Portals API https://youtu.be/l_UaLiqct4Q
 * Полина Гуртовая | WebAssembly: Приручи дракона https://youtu.be/ehPucx9he5U
 
@@ -160,3 +159,4 @@
 * Вячеслав Шебанов — Системы типов в двух словах https://youtu.be/nFtO6419A5k
 * Marko Letic — Bringing mixed reality to the web https://youtu.be/XumBgejSxKs
 * Роман Дворнов — CSS definition syntax https://youtu.be/8kjE1n6mQ2s
+* Александр Инкин | Нативные API и Angular https://youtu.be/G4qftFVsJj8
