@@ -14,7 +14,11 @@
 * ApolloClient 3 — прощаемся с Redux, REST API и Relay - Павел Черторогов https://youtu.be/5h7zX45YPuQ
 * Никита Полторацкий | Будущее навигации в веб. Разбираемся с Portals API https://youtu.be/l_UaLiqct4Q
 * Полина Гуртовая | WebAssembly: Приручи дракона https://youtu.be/ehPucx9he5U
-
+* Alex Okrushko - Magical TypeScript features - Angular Toronto December 2019 https://youtu.be/T-vQoI_AM9E
+* F8 2019: Building the New Facebook.com with React, GraphQL and Relay https://youtu.be/WxPtYJRjLL0
+* Веб-сервер на Ubuntu с нуля: nginx, HTTP/2, brotli и HTTPS https://youtu.be/oanbIqkS9LM
+* The science of authenticating Angular apps | Kim Maida https://www.youtube.com/watch?v=q7NZ_VWcAEI
+* Автотесты и деплой на GitHub Actions: npm-скрипты, EditorConfig и настройка ssh-ключа https://youtu.be/hevU4NdIsoU
 ---
 
 
@@ -160,3 +164,4 @@
 * Marko Letic — Bringing mixed reality to the web https://youtu.be/XumBgejSxKs
 * Роман Дворнов — CSS definition syntax https://youtu.be/8kjE1n6mQ2s
 * Александр Инкин | Нативные API и Angular https://youtu.be/G4qftFVsJj8
+* Как вставить двадцать видео с Ютуба и не скачать слона https://www.youtube.com/watch?v=4JS70KB9GS0
