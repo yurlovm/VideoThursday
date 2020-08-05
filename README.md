@@ -13,10 +13,10 @@
 * Илья Климов — Надежный JavaScript: в погоне за мифом https://youtu.be/o9zh5EHrpQA
 * ApolloClient 3 — прощаемся с Redux, REST API и Relay - Павел Черторогов https://youtu.be/5h7zX45YPuQ
 * Полина Гуртовая | WebAssembly: Приручи дракона https://youtu.be/ehPucx9he5U
-* Alex Okrushko - Magical TypeScript features - Angular Toronto December 2019 https://youtu.be/T-vQoI_AM9E
 * Веб-сервер на Ubuntu с нуля: nginx, HTTP/2, brotli и HTTPS https://youtu.be/oanbIqkS9LM
 * The science of authenticating Angular apps | Kim Maida https://www.youtube.com/watch?v=q7NZ_VWcAEI
 * Автотесты и деплой на GitHub Actions: npm-скрипты, EditorConfig и настройка ssh-ключа https://youtu.be/hevU4NdIsoU
+* Павел Черторогов — Оборачиваем существующее REST API в GraphQL (методология за 1000000 рублей) https://youtu.be/RDBEfvZT1yQ
 ---
 
 
@@ -165,3 +165,5 @@
 * Как вставить двадцать видео с Ютуба и не скачать слона https://www.youtube.com/watch?v=4JS70KB9GS0
 * Никита Полторацкий | Будущее навигации в веб. Разбираемся с Portals API https://youtu.be/l_UaLiqct4Q
 * F8 2019: Building the New Facebook.com with React, GraphQL and Relay https://youtu.be/WxPtYJRjLL0
+* Alex Okrushko - Magical TypeScript features - Angular Toronto December 2019 https://youtu.be/T-vQoI_AM9E
+* State of RxJS | Ben Lesh | ng-conf: Hardwired https://youtu.be/OC6g4yFsw0w
