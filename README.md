@@ -16,7 +16,6 @@
 * Веб-сервер на Ubuntu с нуля: nginx, HTTP/2, brotli и HTTPS https://youtu.be/oanbIqkS9LM
 * The science of authenticating Angular apps | Kim Maida https://www.youtube.com/watch?v=q7NZ_VWcAEI
 * Автотесты и деплой на GitHub Actions: npm-скрипты, EditorConfig и настройка ssh-ключа https://youtu.be/hevU4NdIsoU
-* Павел Черторогов — Оборачиваем существующее REST API в GraphQL (методология за 1000000 рублей) https://youtu.be/RDBEfvZT1yQ
 ---
 
 
@@ -167,3 +166,4 @@
 * F8 2019: Building the New Facebook.com with React, GraphQL and Relay https://youtu.be/WxPtYJRjLL0
 * Alex Okrushko - Magical TypeScript features - Angular Toronto December 2019 https://youtu.be/T-vQoI_AM9E
 * State of RxJS | Ben Lesh | ng-conf: Hardwired https://youtu.be/OC6g4yFsw0w
+* Павел Черторогов — Оборачиваем существующее REST API в GraphQL (методология за 1000000 рублей) https://youtu.be/RDBEfvZT1yQ
