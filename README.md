@@ -10,10 +10,8 @@
 * Дмитрий Бежецков, Владимир Ануфриенко — Портирование JS на Эльбрус https://youtu.be/1zWUN6y2WbI
 * Самый мягкий и пушистый путь в Machine Learning и Deep Neural Networks / Алексей Охрименко (Avito) https://youtu.be/BX2M8t5BA3s
 * Александр Коротаев — JS-битва: как я написал свой eval() https://youtu.be/TJ7TGk5WJ5k
-* ApolloClient 3 — прощаемся с Redux, REST API и Relay - Павел Черторогов https://youtu.be/5h7zX45YPuQ
 * Полина Гуртовая | WebAssembly: Приручи дракона https://youtu.be/ehPucx9he5U
 * Веб-сервер на Ubuntu с нуля: nginx, HTTP/2, brotli и HTTPS https://youtu.be/oanbIqkS9LM
-* The science of authenticating Angular apps | Kim Maida https://www.youtube.com/watch?v=q7NZ_VWcAEI
 * Автотесты и деплой на GitHub Actions: npm-скрипты, EditorConfig и настройка ssh-ключа https://youtu.be/hevU4NdIsoU
 ---
 
@@ -167,3 +165,6 @@
 * State of RxJS | Ben Lesh | ng-conf: Hardwired https://youtu.be/OC6g4yFsw0w
 * Павел Черторогов — Оборачиваем существующее REST API в GraphQL (методология за 1000000 рублей) https://youtu.be/RDBEfvZT1yQ
 * Илья Климов — Надежный JavaScript: в погоне за мифом https://youtu.be/o9zh5EHrpQA
+* ApolloClient 3 — прощаемся с Redux, REST API и Relay - Павел Черторогов https://youtu.be/5h7zX45YPuQ
+* The science of authenticating Angular apps | Kim Maida https://www.youtube.com/watch?v=q7NZ_VWcAEI
+
