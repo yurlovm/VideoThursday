@@ -4,13 +4,11 @@
 
 * Miguel Angel Duran Garcia — React rendering strategies https://youtu.be/NythxcOI2Mw
 * Nicolò Ribaudo — @babel/how-to https://youtu.be/UeVq_U5obnE
-* Артём Арутюнян — Контрактное программирование как средство, а не цель https://youtu.be/K91G6na4ga8
 * Lucas Fernandes da Costa — Computability, types, tests, and why flat earthers are bad at QA https://youtu.be/SKBgrJg2mH4
 * Дмитрий Пацура — Разработка компилятора для TypeScript на TypeScript на базе LLVM https://youtu.be/gS9a_NBHdw0
 * Дмитрий Бежецков, Владимир Ануфриенко — Портирование JS на Эльбрус https://youtu.be/1zWUN6y2WbI
 * Самый мягкий и пушистый путь в Machine Learning и Deep Neural Networks / Алексей Охрименко (Avito) https://youtu.be/BX2M8t5BA3s
 * Александр Коротаев — JS-битва: как я написал свой eval() https://youtu.be/TJ7TGk5WJ5k
-* Полина Гуртовая | WebAssembly: Приручи дракона https://youtu.be/ehPucx9he5U
 * Веб-сервер на Ubuntu с нуля: nginx, HTTP/2, brotli и HTTPS https://youtu.be/oanbIqkS9LM
 * Автотесты и деплой на GitHub Actions: npm-скрипты, EditorConfig и настройка ssh-ключа https://youtu.be/hevU4NdIsoU
 ---
@@ -167,4 +165,6 @@
 * Илья Климов — Надежный JavaScript: в погоне за мифом https://youtu.be/o9zh5EHrpQA
 * ApolloClient 3 — прощаемся с Redux, REST API и Relay - Павел Черторогов https://youtu.be/5h7zX45YPuQ
 * The science of authenticating Angular apps | Kim Maida https://www.youtube.com/watch?v=q7NZ_VWcAEI
+* Полина Гуртовая | WebAssembly: Приручи дракона https://youtu.be/ehPucx9he5U
+* Артём Арутюнян — Контрактное программирование как средство, а не цель https://youtu.be/K91G6na4ga8
 
