@@ -2,7 +2,6 @@
 
 ### Pool
 
-* Miguel Angel Duran Garcia — React rendering strategies https://youtu.be/NythxcOI2Mw
 * Nicolò Ribaudo — @babel/how-to https://youtu.be/UeVq_U5obnE
 * Lucas Fernandes da Costa — Computability, types, tests, and why flat earthers are bad at QA https://youtu.be/SKBgrJg2mH4
 * Дмитрий Пацура — Разработка компилятора для TypeScript на TypeScript на базе LLVM https://youtu.be/gS9a_NBHdw0
@@ -11,6 +10,19 @@
 * Александр Коротаев — JS-битва: как я написал свой eval() https://youtu.be/TJ7TGk5WJ5k
 * Веб-сервер на Ubuntu с нуля: nginx, HTTP/2, brotli и HTTPS https://youtu.be/oanbIqkS9LM
 * Автотесты и деплой на GitHub Actions: npm-скрипты, EditorConfig и настройка ssh-ключа https://youtu.be/hevU4NdIsoU
+* Revisiting a Reactive Router with Ivy | Brandon Roberts | ng-conf: Hardwired https://youtu.be/Nwp7IckoHxI
+* Domain-Driven Design and Angular | Manfred Steyer | ng-conf: Hardwired https://youtu.be/N1JZNHep8YQ
+* Stronger Type-Checking in Templates with Ivy | Alex Rickabaugh | ng-conf: Hardwired https://youtu.be/7yge1cHFExI
+* Common Challenges Facing Angular Enterprises | Stephen Fluin | ng-conf: Hardwired https://youtu.be/rMOufrAXUog
+* Preload Strategies: Step in Time, Step in Time! | John Papa | ng-conf: Hardwired https://youtu.be/rr5whHCdVCY
+* Deep Dive Into CLI Builders | Mike Hartington | ng-conf: Hardwired https://youtu.be/HyvZ26ofTvY
+* Http Interceptors: The Room Where It Happens | Ward Bell | ng-conf: Hardwired https://youtu.be/BVzNDETj-CA
+* How Ivy Will Improve Your Application Architecture | Manfred Steyer | ng-conf: Hardwired https://youtu.be/6jqIw4dBpZk
+* The Phantom of the Template Error | Brian Love | ng-conf: Hardwired https://youtu.be/_8gx2QsuI74
+* Why Should You Care About RxJS Higher-order Mapping Operators? | Deborah Kurata | ng-conf: Hardwired https://youtu.be/ldRdjc-60PM
+* A Philosophy for Designing Components with Composition | Jeremy Elbourn | ng-conf: Hardwired https://youtu.be/oHTm5LYkgEY
+* Игорь Кацуба, Тинькофф - How we share Angular between applications https://youtu.be/m8TzSQb-pn8?list=PLLrf_044z4Jo8XdRpjEAzbo-va3o_CAp1
+* Michael Hladky, GDE - Fully Zone-Less - High-Performance Angular applications in post IVY https://youtu.be/OZJzAUiGnKE?list=PLLrf_044z4Jo8XdRpjEAzbo-va3o_CAp1
 ---
 
 
