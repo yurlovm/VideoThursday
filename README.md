@@ -18,12 +18,9 @@
 * Preload Strategies: Step in Time, Step in Time! | John Papa | ng-conf: Hardwired https://youtu.be/rr5whHCdVCY
 * Deep Dive Into CLI Builders | Mike Hartington | ng-conf: Hardwired https://youtu.be/HyvZ26ofTvY
 * Http Interceptors: The Room Where It Happens | Ward Bell | ng-conf: Hardwired https://youtu.be/BVzNDETj-CA
-* How Ivy Will Improve Your Application Architecture | Manfred Steyer | ng-conf: Hardwired https://youtu.be/6jqIw4dBpZk
 * The Phantom of the Template Error | Brian Love | ng-conf: Hardwired https://youtu.be/_8gx2QsuI74
 * Why Should You Care About RxJS Higher-order Mapping Operators? | Deborah Kurata | ng-conf: Hardwired https://youtu.be/ldRdjc-60PM
 * A Philosophy for Designing Components with Composition | Jeremy Elbourn | ng-conf: Hardwired https://youtu.be/oHTm5LYkgEY
-* Игорь Кацуба, Тинькофф - How we share Angular between applications https://youtu.be/m8TzSQb-pn8?list=PLLrf_044z4Jo8XdRpjEAzbo-va3o_CAp1
-* Michael Hladky, GDE - Fully Zone-Less - High-Performance Angular applications in post IVY https://youtu.be/OZJzAUiGnKE?list=PLLrf_044z4Jo8XdRpjEAzbo-va3o_CAp1
 ---
 
 
@@ -180,4 +177,7 @@
 * The science of authenticating Angular apps | Kim Maida https://www.youtube.com/watch?v=q7NZ_VWcAEI
 * Полина Гуртовая | WebAssembly: Приручи дракона https://youtu.be/ehPucx9he5U
 * Артём Арутюнян — Контрактное программирование как средство, а не цель https://youtu.be/K91G6na4ga8
+* Игорь Кацуба, Тинькофф - How we share Angular between applications https://youtu.be/m8TzSQb-pn8?list=PLLrf_044z4Jo8XdRpjEAzbo-va3o_CAp1
+* How Ivy Will Improve Your Application Architecture | Manfred Steyer | ng-conf: Hardwired https://youtu.be/6jqIw4dBpZk
+* Michael Hladky, GDE - Fully Zone-Less - High-Performance Angular applications in post IVY https://youtu.be/OZJzAUiGnKE?list=PLLrf_044z4Jo8XdRpjEAzbo-va3o_CAp1
 
