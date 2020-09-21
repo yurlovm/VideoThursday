@@ -14,7 +14,6 @@
 * Revisiting a Reactive Router with Ivy | Brandon Roberts | ng-conf: Hardwired https://youtu.be/Nwp7IckoHxI
 * Domain-Driven Design and Angular | Manfred Steyer | ng-conf: Hardwired https://youtu.be/N1JZNHep8YQ
 * Stronger Type-Checking in Templates with Ivy | Alex Rickabaugh | ng-conf: Hardwired https://youtu.be/7yge1cHFExI
-* Common Challenges Facing Angular Enterprises | Stephen Fluin | ng-conf: Hardwired https://youtu.be/rMOufrAXUog
 * Http Interceptors: The Room Where It Happens | Ward Bell | ng-conf: Hardwired https://youtu.be/BVzNDETj-CA
 * The Phantom of the Template Error | Brian Love | ng-conf: Hardwired https://youtu.be/_8gx2QsuI74
 * Why Should You Care About RxJS Higher-order Mapping Operators? | Deborah Kurata | ng-conf: Hardwired https://youtu.be/ldRdjc-60PM
