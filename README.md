@@ -17,6 +17,9 @@
 * Http Interceptors: The Room Where It Happens | Ward Bell | ng-conf: Hardwired https://youtu.be/BVzNDETj-CA
 * The Phantom of the Template Error | Brian Love | ng-conf: Hardwired https://youtu.be/_8gx2QsuI74
 * Why Should You Care About RxJS Higher-order Mapping Operators? | Deborah Kurata | ng-conf: Hardwired https://youtu.be/ldRdjc-60PM
+* Stepping Up: Observable Services to Observable Store | Dan Wahlin | ng-conf: Hardwired https://youtu.be/jn4AH5pGWhA
+* The Role of Effects in NgRx Authentication | Sam Julien | ng-conf: Hardwired https://youtu.be/SFXaCADPkcE
+
 ---
 
 
