@@ -12,10 +12,8 @@
 * Веб-сервер на Ubuntu с нуля: nginx, HTTP/2, brotli и HTTPS https://youtu.be/oanbIqkS9LM
 * Автотесты и деплой на GitHub Actions: npm-скрипты, EditorConfig и настройка ssh-ключа https://youtu.be/hevU4NdIsoU
 * Revisiting a Reactive Router with Ivy | Brandon Roberts | ng-conf: Hardwired https://youtu.be/Nwp7IckoHxI
-* Domain-Driven Design and Angular | Manfred Steyer | ng-conf: Hardwired https://youtu.be/N1JZNHep8YQ
 * Stronger Type-Checking in Templates with Ivy | Alex Rickabaugh | ng-conf: Hardwired https://youtu.be/7yge1cHFExI
 * Http Interceptors: The Room Where It Happens | Ward Bell | ng-conf: Hardwired https://youtu.be/BVzNDETj-CA
-* The Phantom of the Template Error | Brian Love | ng-conf: Hardwired https://youtu.be/_8gx2QsuI74
 * Why Should You Care About RxJS Higher-order Mapping Operators? | Deborah Kurata | ng-conf: Hardwired https://youtu.be/ldRdjc-60PM
 * Stepping Up: Observable Services to Observable Store | Dan Wahlin | ng-conf: Hardwired https://youtu.be/jn4AH5pGWhA
 * The Role of Effects in NgRx Authentication | Sam Julien | ng-conf: Hardwired https://youtu.be/SFXaCADPkcE
@@ -182,4 +180,4 @@
 * Preload Strategies: Step in Time, Step in Time! | John Papa | ng-conf: Hardwired https://youtu.be/rr5whHCdVCY
 * Deep Dive Into CLI Builders | Mike Hartington | ng-conf: Hardwired https://youtu.be/HyvZ26ofTvY
 * A Philosophy for Designing Components with Composition | Jeremy Elbourn | ng-conf: Hardwired https://youtu.be/oHTm5LYkgEY
-
+* Domain-Driven Design and Angular | Manfred Steyer | ng-conf: Hardwired https://youtu.be/N1JZNHep8YQ
