@@ -2,6 +2,7 @@
 
 ## Pool
 
+* Robert C. Martin — Effective Estimation https://www.youtube.com/watch?v=eisuQefYw_o&feature=youtu.be
 * Дмитрий Пацура — Архитектура React Native для JS-разработчика https://www.youtube.com/watch?v=v4MnR41SHZc
 * Ричч Хикки о случайно и вынужденной сложности при разарботке https://www.youtube.com/watch?v=eWbPLSJZ5Zw
 * Nicolò Ribaudo — @babel/how-to https://youtu.be/UeVq_U5obnE
