@@ -5,7 +5,6 @@
 * Ричч Хикки о случайно и вынужденной сложности при разарботке https://www.youtube.com/watch?v=eWbPLSJZ5Zw
 * Nicolò Ribaudo — @babel/how-to https://youtu.be/UeVq_U5obnE
 * Lucas Fernandes da Costa — Computability, types, tests, and why flat earthers are bad at QA https://youtu.be/SKBgrJg2mH4
-* Дмитрий Пацура — Разработка компилятора для TypeScript на TypeScript на базе LLVM https://youtu.be/gS9a_NBHdw0
 * Дмитрий Бежецков, Владимир Ануфриенко — Портирование JS на Эльбрус https://youtu.be/1zWUN6y2WbI
 * Самый мягкий и пушистый путь в Machine Learning и Deep Neural Networks / Алексей Охрименко (Avito) https://youtu.be/BX2M8t5BA3s
 * Александр Коротаев — JS-битва: как я написал свой eval() https://youtu.be/TJ7TGk5WJ5k
@@ -20,6 +19,7 @@
 
 ## Watched
 
+* Дмитрий Пацура — Разработка компилятора для TypeScript на TypeScript на базе LLVM https://youtu.be/gS9a_NBHdw0
 * 3. Git — инструмент для совместной работы, с нуля и до регламента в команде — Сергей Сергеев https://youtu.be/yDSs80lu3ak
 * 1.Адаптивная вёрстка (обновленная версия) - Дмитрий Душкин https://www.youtube.com/watch?v=5jTDpz7OXD4
 * 10. Типизация — Андрей Морозов https://youtu.be/tybjhHPj3io
