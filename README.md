@@ -17,6 +17,9 @@
 * Why Should You Care About RxJS Higher-order Mapping Operators? | Deborah Kurata | ng-conf: Hardwired https://youtu.be/ldRdjc-60PM
 * Stepping Up: Observable Services to Observable Store | Dan Wahlin | ng-conf: Hardwired https://youtu.be/jn4AH5pGWhA
 * The Role of Effects in NgRx Authentication | Sam Julien | ng-conf: Hardwired https://youtu.be/SFXaCADPkcE
+* 1+N and GraphQL - Matteo Collina https://youtu.be/SSj4BGkIBGo
+* Docker для фронтендера - Алексей Авдеев (Neuron.Digital) https://youtu.be/SMM3bsYyFls
+* Event-Driven Architecture: детали реализаций Event Loop - Вадим Горбачев (OpenWay) https://youtu.be/Zu18cMJGeqw
 
 ## Watched
 
