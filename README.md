@@ -153,7 +153,7 @@
 * Виталий Брагилевский — JavaScript на службе у теоретической информатики https://youtu.be/T66wMYbtfNA
 * Павел Черторогов — GraphQL-фрагменты на клиенте: История появления, ошибки использования https://youtu.be/0bpZiMVJh14
 * Андрей Прокопюк — Системный подход к скорости во фронтенде: онлайн-измерения https://youtu.be/Whm2FMBIgA0
-* Виктор Турский. 6 способов взломать твое JavaScript приложение. JS Fest 2019 Spring https://youtu.be/tBXZRC1f34E
+* Виктор Турский. 6 способов взломать твое JavaScript приложение | JS Fest 2019 Spring https://youtu.be/tBXZRC1f34E
 * Алексей Калмаков — Системный подход к скорости во фронтенде: оффлайн-измерения https://youtu.be/TzCMDlYMydA
 * Андрей Оконечников — Resilient Component Libraries with React https://youtu.be/1U9oGd3VD9w
 * HTML: The Good Parts - Вадим Макеев https://youtu.be/A4tglcel7Ac
