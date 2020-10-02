@@ -134,7 +134,7 @@
 * _ ___ ______? / Вадим Макеев (HTML Academy) https://www.youtube.com/watch?v=uI3Q5m9xkkw
 * Максим Корецкий - Front end development and change detection https://youtu.be/zK7ah1f6oTU
 * Ответ на главный вопрос в CSS, Михаил Иванкив - https://www.youtube.com/watch?v=cO2-zYzjyD0
-* Пусть всем кажется, что всё грузится быстро / Виктор Русакович (GP Solutions) https://youtu.be/ODWakh7Tl9s
+* Пусть всем кажется, что всё грузится быстро | Виктор Русакович (GP Solutions) https://youtu.be/ODWakh7Tl9s
 * Кирилл Черкашин — Работаем с абстрактными синтаксическими деревьями JavaScript https://youtu.be/ILSpvViUlPU
 * Profiling Paint Perf  - https://youtu.be/Wfxm56ttAmE https://youtu.be/W4zp79QyDXA
 * Распространенные ошибки при написании юнит-тестов, Катерина Павленко - https://www.youtube.com/watch?v=g5VETJqI6uc
