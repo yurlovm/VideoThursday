@@ -19,7 +19,6 @@
 
 ## Watched
 
-* Дмитрий Пацура — Разработка компилятора для TypeScript на TypeScript на базе LLVM https://youtu.be/gS9a_NBHdw0
 * 3. Git — инструмент для совместной работы, с нуля и до регламента в команде — Сергей Сергеев https://youtu.be/yDSs80lu3ak
 * 1.Адаптивная вёрстка (обновленная версия) - Дмитрий Душкин https://www.youtube.com/watch?v=5jTDpz7OXD4
 * 10. Типизация — Андрей Морозов https://youtu.be/tybjhHPj3io
@@ -179,3 +178,4 @@
 * Deep Dive Into CLI Builders | Mike Hartington | ng-conf: Hardwired https://youtu.be/HyvZ26ofTvY
 * A Philosophy for Designing Components with Composition | Jeremy Elbourn | ng-conf: Hardwired https://youtu.be/oHTm5LYkgEY
 * Domain-Driven Design and Angular | Manfred Steyer | ng-conf: Hardwired https://youtu.be/N1JZNHep8YQ
+* Дмитрий Пацура — Разработка компилятора для TypeScript на TypeScript на базе LLVM https://youtu.be/gS9a_NBHdw0
