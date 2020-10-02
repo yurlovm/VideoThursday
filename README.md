@@ -1,6 +1,6 @@
 # VideoThursday
 
-### Pool
+## Pool
 
 * Ричч Хикки о случайно и вынужденной сложности при разарботке https://www.youtube.com/watch?v=eWbPLSJZ5Zw
 * Nicolò Ribaudo — @babel/how-to https://youtu.be/UeVq_U5obnE
@@ -18,10 +18,8 @@
 * Stepping Up: Observable Services to Observable Store | Dan Wahlin | ng-conf: Hardwired https://youtu.be/jn4AH5pGWhA
 * The Role of Effects in NgRx Authentication | Sam Julien | ng-conf: Hardwired https://youtu.be/SFXaCADPkcE
 
----
+## Watched
 
-
-# Watched
 * 3. Git — инструмент для совместной работы, с нуля и до регламента в команде — Сергей Сергеев https://youtu.be/yDSs80lu3ak
 * 1.Адаптивная вёрстка (обновленная версия) - Дмитрий Душкин https://www.youtube.com/watch?v=5jTDpz7OXD4
 * 10. Типизация — Андрей Морозов https://youtu.be/tybjhHPj3io
