@@ -23,6 +23,7 @@
 * Docker для фронтендера - Алексей Авдеев (Neuron.Digital) https://youtu.be/SMM3bsYyFls
 * "Uncle" Bob Martin — SOLID Principles of Object Oriented and Agile Design https://www.youtube.com/watch?v=TMuno5RZNeE&feature=youtu.be
 * Event-Driven Architecture: детали реализаций Event Loop - Вадим Горбачев (OpenWay) https://youtu.be/Zu18cMJGeqw
+* "Uncle" Bob Martin — Expecting Professionalism https://www.youtube.com/watch?v=BSaAMQVq01E&ab_channel=DanskeBank.GroupIT.RAPO
 
 ## Watched
 
