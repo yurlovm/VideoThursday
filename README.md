@@ -130,7 +130,7 @@
 * LongestJS: Денис Колесников — npm understand --with-improves https://youtu.be/Cz6bQw1f23s
 * Stencil: a built-time approach to the web by Manu Martinez-Almeida | JSConf EU 2019 https://youtu.be/M1F81V-NhP0
 * Make Web Components Great Again with StencilJS by Julien Renaux https://youtu.be/hQ9vHusMscw
-* New Adventures in Front-End, 2019 Edition / Виталий Фридман (Smashing Magazine) https://www.youtube.com/watch?v=Wz17FARavd0
+* New Adventures in Front-End, 2019 Edition | Виталий Фридман (Smashing Magazine) https://www.youtube.com/watch?v=Wz17FARavd0
 * Артём Кобзарь/Дмитрий Махнёв - (не|ну)жная монада Either на практике и в теории https://youtu.be/S0cCjbWuvzk
 * _ ___ ______? / Вадим Макеев (HTML Academy) https://www.youtube.com/watch?v=uI3Q5m9xkkw
 * Максим Корецкий - Front end development and change detection https://youtu.be/zK7ah1f6oTU
