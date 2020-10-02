@@ -2,6 +2,7 @@
 
 ## Pool
 
+* "Uncle" Bob Martin — SOLID Principles of Object Oriented and Agile Design https://www.youtube.com/watch?v=TMuno5RZNeE&feature=youtu.be
 * Дмитрий Пацура — Архитектура React Native для JS-разработчика https://www.youtube.com/watch?v=v4MnR41SHZc
 * Ричч Хикки о случайно и вынужденной сложности при разарботке https://www.youtube.com/watch?v=eWbPLSJZ5Zw
 * Nicolò Ribaudo — @babel/how-to https://youtu.be/UeVq_U5obnE
