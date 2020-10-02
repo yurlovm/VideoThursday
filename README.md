@@ -2,6 +2,7 @@
 
 ## Pool
 
+* "Uncle" Bob Martin — Expecting Professionalism https://www.youtube.com/watch?v=BSaAMQVq01E&ab_channel=DanskeBank.GroupIT.RAPO
 * Дмитрий Пацура — Архитектура React Native для JS-разработчика https://www.youtube.com/watch?v=v4MnR41SHZc
 * Ричч Хикки о случайно и вынужденной сложности при разарботке https://www.youtube.com/watch?v=eWbPLSJZ5Zw
 * Nicolò Ribaudo — @babel/how-to https://youtu.be/UeVq_U5obnE
