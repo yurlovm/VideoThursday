@@ -25,7 +25,8 @@
 * "Uncle" Bob Martin — "The Future of Programming" https://www.youtube.com/watch?v=ecIWPzGEbFc&ab_channel=PaulStringer%27sMobileTech
 * Robert C. Martin — Effective Estimation https://www.youtube.com/watch?v=eisuQefYw_o&feature=youtu.be
 * Качество кода / Иван Ботанов (Tinkoff.ru) https://www.youtube.com/watch?v=dpkKf-Nkwcw
-The Microfrontend Revolution - Using Webpack 5 Module Federation with Angular by Manfred Steyer https://youtu.be/HDR9qEsLjtg
+* dynamic component architecture https://youtu.be/gwE_qQpMdvs
+* The Microfrontend Revolution - Using Webpack 5 Module Federation with Angular by Manfred Steyer https://youtu.be/HDR9qEsLjtg
 
 ## Watched
 
