@@ -2,8 +2,8 @@
 
 ## Pool
 
-* Дмитрий Пацура — Архитектура React Native для JS-разработчика https://www.youtube.com/watch?v=v4MnR41SHZc
-* Ричч Хикки о случайно и вынужденной сложности при разарботке https://www.youtube.com/watch?v=eWbPLSJZ5Zw
+* Дмитрий Пацура — Архитектура React Native для JS-разработчика https://youtu.be/v4MnR41SHZc
+* Ричч Хикки о случайно и вынужденной сложности при разработке https://youtu.be/eWbPLSJZ5Zw
 * Nicolò Ribaudo — @babel/how-to https://youtu.be/UeVq_U5obnE
 * Lucas Fernandes da Costa — Computability, types, tests, and why flat earthers are bad at QA https://youtu.be/SKBgrJg2mH4
 * Дмитрий Бежецков, Владимир Ануфриенко — Портирование JS на Эльбрус https://youtu.be/1zWUN6y2WbI
@@ -25,6 +25,7 @@
 * "Uncle" Bob Martin — "The Future of Programming" https://www.youtube.com/watch?v=ecIWPzGEbFc&ab_channel=PaulStringer%27sMobileTech
 * Robert C. Martin — Effective Estimation https://www.youtube.com/watch?v=eisuQefYw_o&feature=youtu.be
 * Качество кода / Иван Ботанов (Tinkoff.ru) https://www.youtube.com/watch?v=dpkKf-Nkwcw
+The Microfrontend Revolution - Using Webpack 5 Module Federation with Angular by Manfred Steyer https://youtu.be/HDR9qEsLjtg
 
 ## Watched
 
