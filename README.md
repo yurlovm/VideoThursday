@@ -28,6 +28,7 @@
 * dynamic component architecture https://youtu.be/gwE_qQpMdvs
 * The Microfrontend Revolution - Using Webpack 5 Module Federation with Angular by Manfred Steyer https://youtu.be/HDR9qEsLjtg
 * NGRX, or NGXS, or Akita, which one should you choose? by Devlin Duldulao https://youtu.be/4OliKx8wxSI
+* Классические приёмы программирования во фронтенде — Игорь Алексеенко https://youtu.be/mc7EMdyawBk
 
 ## Watched
 
