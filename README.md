@@ -22,7 +22,6 @@
 * Event-Driven Architecture: детали реализаций Event Loop - Вадим Горбачев (OpenWay) https://youtu.be/Zu18cMJGeqw
 * "Uncle" Bob Martin — SOLID Principles of Object Oriented and Agile Design https://www.youtube.com/watch?v=TMuno5RZNeE&feature=youtu.be
 * "Uncle" Bob Martin — Expecting Professionalism https://www.youtube.com/watch?v=BSaAMQVq01E&ab_channel=DanskeBank.GroupIT.RAPO
-* "Uncle" Bob Martin — "The Future of Programming" https://www.youtube.com/watch?v=ecIWPzGEbFc&ab_channel=PaulStringer%27sMobileTech
 * Robert C. Martin — Effective Estimation https://www.youtube.com/watch?v=eisuQefYw_o&feature=youtu.be
 * Качество кода / Иван Ботанов (Tinkoff.ru) https://www.youtube.com/watch?v=dpkKf-Nkwcw
 * dynamic component architecture https://youtu.be/gwE_qQpMdvs
@@ -193,3 +192,4 @@
 * A Philosophy for Designing Components with Composition | Jeremy Elbourn | ng-conf: Hardwired https://youtu.be/oHTm5LYkgEY
 * Domain-Driven Design and Angular | Manfred Steyer | ng-conf: Hardwired https://youtu.be/N1JZNHep8YQ
 * Дмитрий Пацура — Разработка компилятора для TypeScript на TypeScript на базе LLVM https://youtu.be/gS9a_NBHdw0
+* "Uncle" Bob Martin — "The Future of Programming" https://www.youtube.com/watch?v=ecIWPzGEbFc
