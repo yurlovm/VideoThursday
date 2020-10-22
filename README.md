@@ -23,7 +23,6 @@
 * "Uncle" Bob Martin — SOLID Principles of Object Oriented and Agile Design https://www.youtube.com/watch?v=TMuno5RZNeE&feature=youtu.be
 * "Uncle" Bob Martin — Expecting Professionalism https://www.youtube.com/watch?v=BSaAMQVq01E&ab_channel=DanskeBank.GroupIT.RAPO
 * Robert C. Martin — Effective Estimation https://www.youtube.com/watch?v=eisuQefYw_o&feature=youtu.be
-* Качество кода / Иван Ботанов (Tinkoff.ru) https://www.youtube.com/watch?v=dpkKf-Nkwcw
 * dynamic component architecture https://youtu.be/gwE_qQpMdvs
 * The Microfrontend Revolution - Using Webpack 5 Module Federation with Angular by Manfred Steyer https://youtu.be/HDR9qEsLjtg
 * NGRX, or NGXS, or Akita, which one should you choose? by Devlin Duldulao https://youtu.be/4OliKx8wxSI
@@ -33,10 +32,8 @@
 * Icon. Оверинжиниринг или необходимость? https://youtu.be/wlClHCguEr8?t=12614
 * Frontend Security 2020: о чем вы хотели бы забыть, но не можете https://youtu.be/LRc6yuCHMNc?t=1608
 * Getting Web Forms Right: From Checkboxes To Dropdowns https://youtu.be/LRc6yuCHMNc?t=14039
-* Технологический радар: тенденции, как мы их видим https://youtu.be/UqJnodoV-OM?t=1882
 * Страх и ненависть локализации в больших проектах https://youtu.be/UqJnodoV-OM?t=5435
 * Где я и где конечный автомат? https://youtu.be/UqJnodoV-OM?t=14712
-
 
 ## Watched
 
@@ -201,3 +198,5 @@
 * Domain-Driven Design and Angular | Manfred Steyer | ng-conf: Hardwired https://youtu.be/N1JZNHep8YQ
 * Дмитрий Пацура — Разработка компилятора для TypeScript на TypeScript на базе LLVM https://youtu.be/gS9a_NBHdw0
 * "Uncle" Bob Martin — "The Future of Programming" https://www.youtube.com/watch?v=ecIWPzGEbFc
+* Технологический радар: тенденции, как мы их видим https://youtu.be/UqJnodoV-OM?t=1882
+* Качество кода / Иван Ботанов (Tinkoff.ru) https://www.youtube.com/watch?v=dpkKf-Nkwcw
