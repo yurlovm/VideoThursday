@@ -26,10 +26,8 @@
 * dynamic component architecture https://youtu.be/gwE_qQpMdvs
 * The Microfrontend Revolution - Using Webpack 5 Module Federation with Angular by Manfred Steyer https://youtu.be/HDR9qEsLjtg
 * NGRX, or NGXS, or Akita, which one should you choose? by Devlin Duldulao https://youtu.be/4OliKx8wxSI
-* Классические приёмы программирования во фронтенде — Игорь Алексеенко https://youtu.be/mc7EMdyawBk
 * Mastering the Subject: Communication Options in RxJS | Dan Wahlin https://youtu.be/_q-HL9YX_pk
 * Декларативный Web Audio API https://youtu.be/g7pmE1vtTNE?t=8368
-* Icon. Оверинжиниринг или необходимость? https://youtu.be/wlClHCguEr8?t=12614
 * Страх и ненависть локализации в больших проектах https://youtu.be/UqJnodoV-OM?t=5435
 * Где я и где конечный автомат? https://youtu.be/UqJnodoV-OM?t=14712
 
@@ -200,3 +198,5 @@
 * Качество кода / Иван Ботанов (Tinkoff.ru) https://www.youtube.com/watch?v=dpkKf-Nkwcw
 * Frontend Security 2020: о чем вы хотели бы забыть, но не можете https://youtu.be/LRc6yuCHMNc?t=1608
 * Getting Web Forms Right: From Checkboxes To Dropdowns https://youtu.be/LRc6yuCHMNc?t=14039
+* Классические приёмы программирования во фронтенде — Игорь Алексеенко https://youtu.be/mc7EMdyawBk
+* Icon. Оверинжиниринг или необходимость? https://youtu.be/wlClHCguEr8?t=12614
