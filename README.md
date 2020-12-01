@@ -18,7 +18,6 @@
 * Stepping Up: Observable Services to Observable Store | Dan Wahlin | ng-conf: Hardwired https://youtu.be/jn4AH5pGWhA
 * The Role of Effects in NgRx Authentication | Sam Julien | ng-conf: Hardwired https://youtu.be/SFXaCADPkcE
 * 1+N and GraphQL - Matteo Collina https://youtu.be/SSj4BGkIBGo
-* Docker для фронтендера - Алексей Авдеев (Neuron.Digital) https://youtu.be/SMM3bsYyFls
 * Event-Driven Architecture: детали реализаций Event Loop - Вадим Горбачев (OpenWay) https://youtu.be/Zu18cMJGeqw
 * "Uncle" Bob Martin — SOLID Principles of Object Oriented and Agile Design https://www.youtube.com/watch?v=TMuno5RZNeE&feature=youtu.be
 * "Uncle" Bob Martin — Expecting Professionalism https://www.youtube.com/watch?v=BSaAMQVq01E&ab_channel=DanskeBank.GroupIT.RAPO
@@ -30,6 +29,14 @@
 * Декларативный Web Audio API https://youtu.be/g7pmE1vtTNE?t=8368
 * Страх и ненависть локализации в больших проектах https://youtu.be/UqJnodoV-OM?t=5435
 * Где я и где конечный автомат? https://youtu.be/UqJnodoV-OM?t=14712
+* Александр Коротаев — Съел HTML на рендеринге собаки  https://youtu.be/6fZ6vcp2ICU
+* Алексей Золотых — Решения, которые мы принимаем. Личный взгляд на архитектуру https://youtu.be/xXrXlAvwB8E
+* Артём Кобзарь — Хочу цифровые подписи на JavaScript https://youtu.be/JBuH4xuqQzA
+* Никита Мостовой — Работа с DOM в JS фреймворках https://youtu.be/bZrLPqYLdr4
+* Сергей Фетискин — Speak my language %app% https://youtu.be/nz-jeUp3UHE
+* Ujjwal Sharma — Tempus Fugit: A story of time https://youtu.be/3F2A708c1o0
+* Александр Богачёв — Рефлексия в TypeScript https://youtu.be/sjtQyrfGeaU
+
 
 ## Watched
 
@@ -200,3 +207,4 @@
 * Getting Web Forms Right: From Checkboxes To Dropdowns https://youtu.be/LRc6yuCHMNc?t=14039
 * Классические приёмы программирования во фронтенде — Игорь Алексеенко https://youtu.be/mc7EMdyawBk
 * Icon. Оверинжиниринг или необходимость? https://youtu.be/wlClHCguEr8?t=12614
+* Docker для фронтендера - Алексей Авдеев (Neuron.Digital) https://youtu.be/SMM3bsYyFls
