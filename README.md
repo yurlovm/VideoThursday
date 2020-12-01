@@ -16,14 +16,12 @@
 * Http Interceptors: The Room Where It Happens | Ward Bell | ng-conf: Hardwired https://youtu.be/BVzNDETj-CA
 * Why Should You Care About RxJS Higher-order Mapping Operators? | Deborah Kurata | ng-conf: Hardwired https://youtu.be/ldRdjc-60PM
 * Stepping Up: Observable Services to Observable Store | Dan Wahlin | ng-conf: Hardwired https://youtu.be/jn4AH5pGWhA
-* The Role of Effects in NgRx Authentication | Sam Julien | ng-conf: Hardwired https://youtu.be/SFXaCADPkcE
 * 1+N and GraphQL - Matteo Collina https://youtu.be/SSj4BGkIBGo
 * Event-Driven Architecture: детали реализаций Event Loop - Вадим Горбачев (OpenWay) https://youtu.be/Zu18cMJGeqw
 * "Uncle" Bob Martin — SOLID Principles of Object Oriented and Agile Design https://www.youtube.com/watch?v=TMuno5RZNeE&feature=youtu.be
 * "Uncle" Bob Martin — Expecting Professionalism https://www.youtube.com/watch?v=BSaAMQVq01E&ab_channel=DanskeBank.GroupIT.RAPO
 * Robert C. Martin — Effective Estimation https://www.youtube.com/watch?v=eisuQefYw_o&feature=youtu.be
 * dynamic component architecture https://youtu.be/gwE_qQpMdvs
-* The Microfrontend Revolution - Using Webpack 5 Module Federation with Angular by Manfred Steyer https://youtu.be/HDR9qEsLjtg
 * NGRX, or NGXS, or Akita, which one should you choose? by Devlin Duldulao https://youtu.be/4OliKx8wxSI
 * Mastering the Subject: Communication Options in RxJS | Dan Wahlin https://youtu.be/_q-HL9YX_pk
 * Декларативный Web Audio API https://youtu.be/g7pmE1vtTNE?t=8368
