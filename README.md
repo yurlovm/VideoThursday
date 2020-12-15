@@ -26,7 +26,6 @@
 * Mastering the Subject: Communication Options in RxJS | Dan Wahlin https://youtu.be/_q-HL9YX_pk
 * Декларативный Web Audio API https://youtu.be/g7pmE1vtTNE?t=8368
 * Страх и ненависть локализации в больших проектах https://youtu.be/UqJnodoV-OM?t=5435
-* Где я и где конечный автомат? https://youtu.be/UqJnodoV-OM?t=14712
 * Александр Коротаев — Съел HTML на рендеринге собаки  https://youtu.be/6fZ6vcp2ICU
 * Алексей Золотых — Решения, которые мы принимаем. Личный взгляд на архитектуру https://youtu.be/xXrXlAvwB8E
 * Артём Кобзарь — Хочу цифровые подписи на JavaScript https://youtu.be/JBuH4xuqQzA
@@ -34,6 +33,10 @@
 * Сергей Фетискин — Speak my language %app% https://youtu.be/nz-jeUp3UHE
 * Ujjwal Sharma — Tempus Fugit: A story of time https://youtu.be/3F2A708c1o0
 * Александр Богачёв — Рефлексия в TypeScript https://youtu.be/sjtQyrfGeaU
+* Самое скучное решение / Илья Климов https://youtu.be/yDcwplt-vm8
+* Docker deep dive for JavaScript developers / Виктор Турский https://youtu.be/CgbijhDEAgs
+* 200 OK! Error Handling in GraphQL — Sasha Solomon @ GraphQL Conf 2019 https://youtu.be/A5-H6MtTvqk
+* Profiling Angular Applications https://youtu.be/FjyX_hkscII
 
 
 ## Watched
@@ -206,3 +209,4 @@
 * Классические приёмы программирования во фронтенде — Игорь Алексеенко https://youtu.be/mc7EMdyawBk
 * Icon. Оверинжиниринг или необходимость? https://youtu.be/wlClHCguEr8?t=12614
 * Docker для фронтендера - Алексей Авдеев (Neuron.Digital) https://youtu.be/SMM3bsYyFls
+* Где я и где конечный автомат? https://youtu.be/UqJnodoV-OM?t=14712
