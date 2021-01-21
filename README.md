@@ -2,7 +2,6 @@
 
 ## Pool
 
-* Дмитрий Пацура — Архитектура React Native для JS-разработчика https://youtu.be/v4MnR41SHZc
 * Ричч Хикки о случайно и вынужденной сложности при разработке https://youtu.be/eWbPLSJZ5Zw
 * Nicolò Ribaudo — @babel/how-to https://youtu.be/UeVq_U5obnE
 * Lucas Fernandes da Costa — Computability, types, tests, and why flat earthers are bad at QA https://youtu.be/SKBgrJg2mH4
@@ -29,16 +28,13 @@
 * Александр Коротаев — Съел HTML на рендеринге собаки  https://youtu.be/6fZ6vcp2ICU
 * Алексей Золотых — Решения, которые мы принимаем. Личный взгляд на архитектуру https://youtu.be/xXrXlAvwB8E
 * Артём Кобзарь — Хочу цифровые подписи на JavaScript https://youtu.be/JBuH4xuqQzA
-* Никита Мостовой — Работа с DOM в JS фреймворках https://youtu.be/bZrLPqYLdr4
 * Сергей Фетискин — Speak my language %app% https://youtu.be/nz-jeUp3UHE
 * Ujjwal Sharma — Tempus Fugit: A story of time https://youtu.be/3F2A708c1o0
 * Александр Богачёв — Рефлексия в TypeScript https://youtu.be/sjtQyrfGeaU
 * Самое скучное решение: как выбирать технологии, когда ты уже не стартап / Илья Климов https://youtu.be/yDcwplt-vm8
 * Docker deep dive for JavaScript developers / Виктор Турский https://youtu.be/CgbijhDEAgs
 * 200 OK! Error Handling in GraphQL — Sasha Solomon @ GraphQL Conf 2019 https://youtu.be/A5-H6MtTvqk
-* Profiling Angular Applications https://youtu.be/FjyX_hkscII
 * Monitoring Angular Applications | ng-conf & Sentry https://youtu.be/wFqLRRFlxNE
-* Keynote - Present and Future of Angular https://youtu.be/FsNTuzBfLxU
 * Павел Черторогов — Революция в микрофронтендах, module federation, Webpack 5 https://youtu.be/pcY8-pDGLkI
 * Виталий Фридман — Воркшоп (часть 1). Новые приключения во фронтенде, версия 2021 https://youtu.be/x7S1YrP8GOg
 * Виталий Фридман — Воркшоп (часть 2). Новые приключения во фронтенде, версия 2021 https://youtu.be/KkOsTHMTsfI
@@ -216,3 +212,7 @@
 * Icon. Оверинжиниринг или необходимость? https://youtu.be/wlClHCguEr8?t=12614
 * Docker для фронтендера - Алексей Авдеев (Neuron.Digital) https://youtu.be/SMM3bsYyFls
 * Где я и где конечный автомат? https://youtu.be/UqJnodoV-OM?t=14712
+* Никита Мостовой — Работа с DOM в JS фреймворках https://youtu.be/bZrLPqYLdr4
+* Keynote - Present and Future of Angular https://youtu.be/FsNTuzBfLxU
+* Profiling Angular Applications https://youtu.be/FjyX_hkscII
+* Дмитрий Пацура — Архитектура React Native для JS-разработчика https://youtu.be/v4MnR41SHZc
