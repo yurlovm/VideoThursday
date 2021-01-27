@@ -32,6 +32,10 @@
 * Виталий Фридман — Воркшоп (часть 1). Новые приключения во фронтенде, версия 2021 https://youtu.be/x7S1YrP8GOg
 * Виталий Фридман — Воркшоп (часть 2). Новые приключения во фронтенде, версия 2021 https://youtu.be/KkOsTHMTsfI
 * Data Fetching with React Server Components https://youtu.be/TQQPAU21ZUw
+* Управление состоянием: Effector https://youtu.be/fdjc5ZPckNo
+* RND.JS #9: Сергей Белозёрцев. Reatom. Переосмысливая Redux. https://youtu.be/b14YQNswsTk
+* Recoil: State Management for Today's React https://youtu.be/_ISAA_Jt9kI
+* Apollo - Управление состоянием https://youtu.be/F_grxllgokE
 
 
 ## Watched
