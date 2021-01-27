@@ -3,18 +3,12 @@
 ## Pool
 
 * Ричч Хикки о случайно и вынужденной сложности при разработке https://youtu.be/eWbPLSJZ5Zw
-* Nicolò Ribaudo — @babel/how-to https://youtu.be/UeVq_U5obnE
 * Lucas Fernandes da Costa — Computability, types, tests, and why flat earthers are bad at QA https://youtu.be/SKBgrJg2mH4
 * Дмитрий Бежецков, Владимир Ануфриенко — Портирование JS на Эльбрус https://youtu.be/1zWUN6y2WbI
 * Самый мягкий и пушистый путь в Machine Learning и Deep Neural Networks / Алексей Охрименко (Avito) https://youtu.be/BX2M8t5BA3s
 * Александр Коротаев — JS-битва: как я написал свой eval() https://youtu.be/TJ7TGk5WJ5k
 * Веб-сервер на Ubuntu с нуля: nginx, HTTP/2, brotli и HTTPS https://youtu.be/oanbIqkS9LM
-* Автотесты и деплой на GitHub Actions: npm-скрипты, EditorConfig и настройка ssh-ключа https://youtu.be/hevU4NdIsoU
-* Revisiting a Reactive Router with Ivy | Brandon Roberts | ng-conf: Hardwired https://youtu.be/Nwp7IckoHxI
 * Stronger Type-Checking in Templates with Ivy | Alex Rickabaugh | ng-conf: Hardwired https://youtu.be/7yge1cHFExI
-* Http Interceptors: The Room Where It Happens | Ward Bell | ng-conf: Hardwired https://youtu.be/BVzNDETj-CA
-* Why Should You Care About RxJS Higher-order Mapping Operators? | Deborah Kurata | ng-conf: Hardwired https://youtu.be/ldRdjc-60PM
-* Stepping Up: Observable Services to Observable Store | Dan Wahlin | ng-conf: Hardwired https://youtu.be/jn4AH5pGWhA
 * 1+N and GraphQL - Matteo Collina https://youtu.be/SSj4BGkIBGo
 * Event-Driven Architecture: детали реализаций Event Loop - Вадим Горбачев (OpenWay) https://youtu.be/Zu18cMJGeqw
 * "Uncle" Bob Martin — SOLID Principles of Object Oriented and Agile Design https://www.youtube.com/watch?v=TMuno5RZNeE&feature=youtu.be
@@ -22,7 +16,6 @@
 * Robert C. Martin — Effective Estimation https://www.youtube.com/watch?v=eisuQefYw_o&feature=youtu.be
 * dynamic component architecture https://youtu.be/gwE_qQpMdvs
 * NGRX, or NGXS, or Akita, which one should you choose? by Devlin Duldulao https://youtu.be/4OliKx8wxSI
-* Mastering the Subject: Communication Options in RxJS | Dan Wahlin https://youtu.be/_q-HL9YX_pk
 * Декларативный Web Audio API https://youtu.be/g7pmE1vtTNE?t=8368
 * Страх и ненависть локализации в больших проектах https://youtu.be/UqJnodoV-OM?t=5435
 * Александр Коротаев — Съел HTML на рендеринге собаки  https://youtu.be/6fZ6vcp2ICU
@@ -38,7 +31,7 @@
 * Павел Черторогов — Революция в микрофронтендах, module federation, Webpack 5 https://youtu.be/pcY8-pDGLkI
 * Виталий Фридман — Воркшоп (часть 1). Новые приключения во фронтенде, версия 2021 https://youtu.be/x7S1YrP8GOg
 * Виталий Фридман — Воркшоп (часть 2). Новые приключения во фронтенде, версия 2021 https://youtu.be/KkOsTHMTsfI
-
+* Data Fetching with React Server Components https://youtu.be/TQQPAU21ZUw
 
 
 ## Watched
