@@ -31,7 +31,6 @@
 * Павел Черторогов — Революция в микрофронтендах, module federation, Webpack 5 https://youtu.be/pcY8-pDGLkI
 * Виталий Фридман — Воркшоп (часть 1). Новые приключения во фронтенде, версия 2021 https://youtu.be/x7S1YrP8GOg
 * Виталий Фридман — Воркшоп (часть 2). Новые приключения во фронтенде, версия 2021 https://youtu.be/KkOsTHMTsfI
-* Data Fetching with React Server Components https://youtu.be/TQQPAU21ZUw
 * Управление состоянием: Effector https://youtu.be/fdjc5ZPckNo
 * RND.JS #9: Сергей Белозёрцев. Reatom. Переосмысливая Redux. https://youtu.be/b14YQNswsTk
 * Recoil: State Management for Today's React https://youtu.be/_ISAA_Jt9kI
@@ -213,3 +212,4 @@
 * Keynote - Present and Future of Angular https://youtu.be/FsNTuzBfLxU
 * Profiling Angular Applications https://youtu.be/FjyX_hkscII
 * Дмитрий Пацура — Архитектура React Native для JS-разработчика https://youtu.be/v4MnR41SHZc
+* Data Fetching with React Server Components https://youtu.be/TQQPAU21ZUw
