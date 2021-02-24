@@ -8,14 +8,12 @@
 * Самый мягкий и пушистый путь в Machine Learning и Deep Neural Networks / Алексей Охрименко (Avito) https://youtu.be/BX2M8t5BA3s
 * Александр Коротаев — JS-битва: как я написал свой eval() https://youtu.be/TJ7TGk5WJ5k
 * Веб-сервер на Ubuntu с нуля: nginx, HTTP/2, brotli и HTTPS https://youtu.be/oanbIqkS9LM
-* Stronger Type-Checking in Templates with Ivy | Alex Rickabaugh | ng-conf: Hardwired https://youtu.be/7yge1cHFExI
 * 1+N and GraphQL - Matteo Collina https://youtu.be/SSj4BGkIBGo
 * Event-Driven Architecture: детали реализаций Event Loop - Вадим Горбачев (OpenWay) https://youtu.be/Zu18cMJGeqw
 * "Uncle" Bob Martin — SOLID Principles of Object Oriented and Agile Design https://www.youtube.com/watch?v=TMuno5RZNeE&feature=youtu.be
 * "Uncle" Bob Martin — Expecting Professionalism https://www.youtube.com/watch?v=BSaAMQVq01E&ab_channel=DanskeBank.GroupIT.RAPO
 * Robert C. Martin — Effective Estimation https://www.youtube.com/watch?v=eisuQefYw_o&feature=youtu.be
 * dynamic component architecture https://youtu.be/gwE_qQpMdvs
-* NGRX, or NGXS, or Akita, which one should you choose? by Devlin Duldulao https://youtu.be/4OliKx8wxSI
 * Декларативный Web Audio API https://youtu.be/g7pmE1vtTNE?t=8368
 * Страх и ненависть локализации в больших проектах https://youtu.be/UqJnodoV-OM?t=5435
 * Александр Коротаев — Съел HTML на рендеринге собаки  https://youtu.be/6fZ6vcp2ICU
@@ -213,3 +211,5 @@
 * Profiling Angular Applications https://youtu.be/FjyX_hkscII
 * Дмитрий Пацура — Архитектура React Native для JS-разработчика https://youtu.be/v4MnR41SHZc
 * Data Fetching with React Server Components https://youtu.be/TQQPAU21ZUw
+* NGRX, or NGXS, or Akita, which one should you choose? by Devlin Duldulao https://youtu.be/4OliKx8wxSI
+* Stronger Type-Checking in Templates with Ivy | Alex Rickabaugh | ng-conf: Hardwired https://youtu.be/7yge1cHFExI
