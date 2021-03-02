@@ -17,7 +17,6 @@
 * Декларативный Web Audio API https://youtu.be/g7pmE1vtTNE?t=8368
 * Страх и ненависть локализации в больших проектах https://youtu.be/UqJnodoV-OM?t=5435
 * Александр Коротаев — Съел HTML на рендеринге собаки  https://youtu.be/6fZ6vcp2ICU
-* Алексей Золотых — Решения, которые мы принимаем. Личный взгляд на архитектуру https://youtu.be/xXrXlAvwB8E
 * Артём Кобзарь — Хочу цифровые подписи на JavaScript https://youtu.be/JBuH4xuqQzA
 * Сергей Фетискин — Speak my language %app% https://youtu.be/nz-jeUp3UHE
 * Ujjwal Sharma — Tempus Fugit: A story of time https://youtu.be/3F2A708c1o0
@@ -213,3 +212,4 @@
 * Data Fetching with React Server Components https://youtu.be/TQQPAU21ZUw
 * NGRX, or NGXS, or Akita, which one should you choose? by Devlin Duldulao https://youtu.be/4OliKx8wxSI
 * Stronger Type-Checking in Templates with Ivy | Alex Rickabaugh | ng-conf: Hardwired https://youtu.be/7yge1cHFExI
+* Алексей Золотых — Решения, которые мы принимаем. Личный взгляд на архитектуру https://youtu.be/xXrXlAvwB8E
