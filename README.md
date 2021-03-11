@@ -26,8 +26,6 @@
 * 200 OK! Error Handling in GraphQL — Sasha Solomon @ GraphQL Conf 2019 https://youtu.be/A5-H6MtTvqk
 * Monitoring Angular Applications | ng-conf & Sentry https://youtu.be/wFqLRRFlxNE
 * Павел Черторогов — Революция в микрофронтендах, module federation, Webpack 5 https://youtu.be/pcY8-pDGLkI
-* Виталий Фридман — Воркшоп (часть 1). Новые приключения во фронтенде, версия 2021 https://youtu.be/x7S1YrP8GOg
-* Виталий Фридман — Воркшоп (часть 2). Новые приключения во фронтенде, версия 2021 https://youtu.be/KkOsTHMTsfI
 * Управление состоянием: Effector https://youtu.be/fdjc5ZPckNo
 * RND.JS #9: Сергей Белозёрцев. Reatom. Переосмысливая Redux. https://youtu.be/b14YQNswsTk
 * Recoil: State Management for Today's React https://youtu.be/_ISAA_Jt9kI
@@ -213,3 +211,5 @@
 * NGRX, or NGXS, or Akita, which one should you choose? by Devlin Duldulao https://youtu.be/4OliKx8wxSI
 * Stronger Type-Checking in Templates with Ivy | Alex Rickabaugh | ng-conf: Hardwired https://youtu.be/7yge1cHFExI
 * Алексей Золотых — Решения, которые мы принимаем. Личный взгляд на архитектуру https://youtu.be/xXrXlAvwB8E
+* Виталий Фридман — Воркшоп (часть 1). Новые приключения во фронтенде, версия 2021 https://youtu.be/x7S1YrP8GOg
+* Виталий Фридман — Воркшоп (часть 2). Новые приключения во фронтенде, версия 2021 https://youtu.be/KkOsTHMTsfI
