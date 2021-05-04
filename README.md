@@ -7,8 +7,6 @@
 * Александр Коротаев — JS-битва: как я написал свой eval() https://youtu.be/TJ7TGk5WJ5k
 * Веб-сервер на Ubuntu с нуля: nginx, HTTP/2, brotli и HTTPS https://youtu.be/oanbIqkS9LM
 * 1+N and GraphQL - Matteo Collina https://youtu.be/SSj4BGkIBGo
-* Event-Driven Architecture: детали реализаций Event Loop - Вадим Горбачев (OpenWay) https://youtu.be/Zu18cMJGeqw
-* dynamic component architecture https://youtu.be/gwE_qQpMdvs
 * Страх и ненависть локализации в больших проектах https://youtu.be/UqJnodoV-OM?t=5435
 * Артём Кобзарь — Хочу цифровые подписи на JavaScript https://youtu.be/JBuH4xuqQzA
 * Сергей Фетискин — Speak my language %app% https://youtu.be/nz-jeUp3UHE
