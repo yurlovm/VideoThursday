@@ -2,34 +2,24 @@
 
 ## Pool
 
-* Ричч Хикки о случайно и вынужденной сложности при разработке https://youtu.be/eWbPLSJZ5Zw
 * Lucas Fernandes da Costa — Computability, types, tests, and why flat earthers are bad at QA https://youtu.be/SKBgrJg2mH4
-* Дмитрий Бежецков, Владимир Ануфриенко — Портирование JS на Эльбрус https://youtu.be/1zWUN6y2WbI
 * Самый мягкий и пушистый путь в Machine Learning и Deep Neural Networks / Алексей Охрименко (Avito) https://youtu.be/BX2M8t5BA3s
 * Александр Коротаев — JS-битва: как я написал свой eval() https://youtu.be/TJ7TGk5WJ5k
 * Веб-сервер на Ubuntu с нуля: nginx, HTTP/2, brotli и HTTPS https://youtu.be/oanbIqkS9LM
 * 1+N and GraphQL - Matteo Collina https://youtu.be/SSj4BGkIBGo
 * Event-Driven Architecture: детали реализаций Event Loop - Вадим Горбачев (OpenWay) https://youtu.be/Zu18cMJGeqw
-* "Uncle" Bob Martin — SOLID Principles of Object Oriented and Agile Design https://www.youtube.com/watch?v=TMuno5RZNeE&feature=youtu.be
-* "Uncle" Bob Martin — Expecting Professionalism https://www.youtube.com/watch?v=BSaAMQVq01E&ab_channel=DanskeBank.GroupIT.RAPO
-* Robert C. Martin — Effective Estimation https://www.youtube.com/watch?v=eisuQefYw_o&feature=youtu.be
 * dynamic component architecture https://youtu.be/gwE_qQpMdvs
-* Декларативный Web Audio API https://youtu.be/g7pmE1vtTNE?t=8368
 * Страх и ненависть локализации в больших проектах https://youtu.be/UqJnodoV-OM?t=5435
-* Александр Коротаев — Съел HTML на рендеринге собаки  https://youtu.be/6fZ6vcp2ICU
 * Артём Кобзарь — Хочу цифровые подписи на JavaScript https://youtu.be/JBuH4xuqQzA
 * Сергей Фетискин — Speak my language %app% https://youtu.be/nz-jeUp3UHE
 * Ujjwal Sharma — Tempus Fugit: A story of time https://youtu.be/3F2A708c1o0
-* Александр Богачёв — Рефлексия в TypeScript https://youtu.be/sjtQyrfGeaU
 * Самое скучное решение: как выбирать технологии, когда ты уже не стартап / Илья Климов https://youtu.be/yDcwplt-vm8
 * Docker deep dive for JavaScript developers / Виктор Турский https://youtu.be/CgbijhDEAgs
 * 200 OK! Error Handling in GraphQL — Sasha Solomon @ GraphQL Conf 2019 https://youtu.be/A5-H6MtTvqk
-* Monitoring Angular Applications | ng-conf & Sentry https://youtu.be/wFqLRRFlxNE
-* Павел Черторогов — Революция в микрофронтендах, module federation, Webpack 5 https://youtu.be/pcY8-pDGLkI
+
 * Управление состоянием: Effector https://youtu.be/fdjc5ZPckNo
 * RND.JS #9: Сергей Белозёрцев. Reatom. Переосмысливая Redux. https://youtu.be/b14YQNswsTk
 * Recoil: State Management for Today's React https://youtu.be/_ISAA_Jt9kI
-* Apollo - Управление состоянием https://youtu.be/F_grxllgokE
 
 
 ## Watched
@@ -213,3 +203,5 @@
 * Алексей Золотых — Решения, которые мы принимаем. Личный взгляд на архитектуру https://youtu.be/xXrXlAvwB8E
 * Виталий Фридман — Воркшоп (часть 1). Новые приключения во фронтенде, версия 2021 https://youtu.be/x7S1YrP8GOg
 * Виталий Фридман — Воркшоп (часть 2). Новые приключения во фронтенде, версия 2021 https://youtu.be/KkOsTHMTsfI
+* Александр Богачёв — Рефлексия в TypeScript https://youtu.be/sjtQyrfGeaU
+* * Павел Черторогов — Революция в микрофронтендах, module federation, Webpack 5 https://youtu.be/pcY8-pDGLkI
