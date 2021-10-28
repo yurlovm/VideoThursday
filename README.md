@@ -20,6 +20,7 @@
 * 1+N and GraphQL - Matteo Collina https://youtu.be/SSj4BGkIBGo
 * Docker для фронтендера - Алексей Авдеев (Neuron.Digital) https://youtu.be/SMM3bsYyFls
 * Event-Driven Architecture: детали реализаций Event Loop - Вадим Горбачев (OpenWay) https://youtu.be/Zu18cMJGeqw
+* Магия прототипного наследования — Виктор Вершанский - https://www.youtube.com/watch?v=JHDwO4sXXn0
 
 ## Watched
 
@@ -118,7 +119,7 @@
 * 08. Houdini CSS, который JavaScript – Никита Дубко https://youtu.be/yyVU-r9sRw8
 * State of Houdini (Chrome Dev Summit 2018) https://youtu.be/lK3OiJvwgSc
 * Знай свой JIT: ближе к машине / Андрей Мелихов - https://www.youtube.com/watch?v=cgquEDC0Ko4
-* JavaScript Engines: The Good Parts™ - Mathias Bynens & Benedikt Meurer - JSConf EU 2018 https://www.youtube.com/watch?v=5nmpokoRaZI 
+* JavaScript Engines: The Good Parts™ - Mathias Bynens & Benedikt Meurer - JSConf EU 2018 https://www.youtube.com/watch?v=5nmpokoRaZI
 * История про моделирование «по-быстрому» / Александр Прибыткин (МегаФон) https://www.youtube.com/watch?v=hQfglqE18Jo
 * Продвинутый TypeScript / Михаил Башуров (Syncro) https://youtu.be/m0uRxCCno00
 * Масштабируемая архитектура фронтенда — Роман Дворнов, Avito https://youtu.be/z9y6PNC2FL0
