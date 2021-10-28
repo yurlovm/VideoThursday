@@ -1,25 +1,22 @@
 # VideoThursday
 
 ## Pool
+
 * "Uncle" Bob Martin — "The Future of Programming" https://www.youtube.com/watch?v=ecIWPzGEbFc&ab_channel=PaulStringer%27sMobileTech
 * Дмитрий Пацура — Архитектура React Native для JS-разработчика https://www.youtube.com/watch?v=v4MnR41SHZc
 * Ричч Хикки о случайно и вынужденной сложности при разарботке https://www.youtube.com/watch?v=eWbPLSJZ5Zw
 * Nicolò Ribaudo — @babel/how-to https://youtu.be/UeVq_U5obnE
 * Lucas Fernandes da Costa — Computability, types, tests, and why flat earthers are bad at QA https://youtu.be/SKBgrJg2mH4
-* Дмитрий Бежецков, Владимир Ануфриенко — Портирование JS на Эльбрус https://youtu.be/1zWUN6y2WbI
 * Самый мягкий и пушистый путь в Machine Learning и Deep Neural Networks / Алексей Охрименко (Avito) https://youtu.be/BX2M8t5BA3s
 * Александр Коротаев — JS-битва: как я написал свой eval() https://youtu.be/TJ7TGk5WJ5k
-* Веб-сервер на Ubuntu с нуля: nginx, HTTP/2, brotli и HTTPS https://youtu.be/oanbIqkS9LM
-* Автотесты и деплой на GitHub Actions: npm-скрипты, EditorConfig и настройка ssh-ключа https://youtu.be/hevU4NdIsoU
-* Revisiting a Reactive Router with Ivy | Brandon Roberts | ng-conf: Hardwired https://youtu.be/Nwp7IckoHxI
-* Stronger Type-Checking in Templates with Ivy | Alex Rickabaugh | ng-conf: Hardwired https://youtu.be/7yge1cHFExI
-* Http Interceptors: The Room Where It Happens | Ward Bell | ng-conf: Hardwired https://youtu.be/BVzNDETj-CA
-* Why Should You Care About RxJS Higher-order Mapping Operators? | Deborah Kurata | ng-conf: Hardwired https://youtu.be/ldRdjc-60PM
-* Stepping Up: Observable Services to Observable Store | Dan Wahlin | ng-conf: Hardwired https://youtu.be/jn4AH5pGWhA
-* The Role of Effects in NgRx Authentication | Sam Julien | ng-conf: Hardwired https://youtu.be/SFXaCADPkcE
 * 1+N and GraphQL - Matteo Collina https://youtu.be/SSj4BGkIBGo
 * Docker для фронтендера - Алексей Авдеев (Neuron.Digital) https://youtu.be/SMM3bsYyFls
 * Event-Driven Architecture: детали реализаций Event Loop - Вадим Горбачев (OpenWay) https://youtu.be/Zu18cMJGeqw
+* Артём Кобзарь — Хочу цифровые подписи на JavaScript https://youtu.be/JBuH4xuqQzA
+* Ujjwal Sharma — Tempus Fugit: A story of time https://youtu.be/3F2A708c1o0
+* Самое скучное решение: как выбирать технологии, когда ты уже не стартап / Илья Климов https://youtu.be/yDcwplt-vm8
+* Docker deep dive for JavaScript developers / Виктор Турский https://youtu.be/CgbijhDEAgs
+* 200 OK! Error Handling in GraphQL — Sasha Solomon @ GraphQL Conf 2019 https://youtu.be/A5-H6MtTvqk
 * Магия прототипного наследования — Виктор Вершанский - https://www.youtube.com/watch?v=JHDwO4sXXn0
 
 ## Watched
@@ -184,3 +181,29 @@
 * A Philosophy for Designing Components with Composition | Jeremy Elbourn | ng-conf: Hardwired https://youtu.be/oHTm5LYkgEY
 * Domain-Driven Design and Angular | Manfred Steyer | ng-conf: Hardwired https://youtu.be/N1JZNHep8YQ
 * Дмитрий Пацура — Разработка компилятора для TypeScript на TypeScript на базе LLVM https://youtu.be/gS9a_NBHdw0
+* "Uncle" Bob Martin — "The Future of Programming" https://www.youtube.com/watch?v=ecIWPzGEbFc
+* Технологический радар: тенденции, как мы их видим https://youtu.be/UqJnodoV-OM?t=1882
+* Качество кода / Иван Ботанов (Tinkoff.ru) https://www.youtube.com/watch?v=dpkKf-Nkwcw
+* Frontend Security 2020: о чем вы хотели бы забыть, но не можете https://youtu.be/LRc6yuCHMNc?t=1608
+* Getting Web Forms Right: From Checkboxes To Dropdowns https://youtu.be/LRc6yuCHMNc?t=14039
+* Классические приёмы программирования во фронтенде — Игорь Алексеенко https://youtu.be/mc7EMdyawBk
+* Icon. Оверинжиниринг или необходимость? https://youtu.be/wlClHCguEr8?t=12614
+* Docker для фронтендера - Алексей Авдеев (Neuron.Digital) https://youtu.be/SMM3bsYyFls
+* Где я и где конечный автомат? https://youtu.be/UqJnodoV-OM?t=14712
+* Никита Мостовой — Работа с DOM в JS фреймворках https://youtu.be/bZrLPqYLdr4
+* Keynote - Present and Future of Angular https://youtu.be/FsNTuzBfLxU
+* Profiling Angular Applications https://youtu.be/FjyX_hkscII
+* Дмитрий Пацура — Архитектура React Native для JS-разработчика https://youtu.be/v4MnR41SHZc
+* Data Fetching with React Server Components https://youtu.be/TQQPAU21ZUw
+* NGRX, or NGXS, or Akita, which one should you choose? by Devlin Duldulao https://youtu.be/4OliKx8wxSI
+* Stronger Type-Checking in Templates with Ivy | Alex Rickabaugh | ng-conf: Hardwired https://youtu.be/7yge1cHFExI
+* Алексей Золотых — Решения, которые мы принимаем. Личный взгляд на архитектуру https://youtu.be/xXrXlAvwB8E
+* Виталий Фридман — Воркшоп (часть 1). Новые приключения во фронтенде, версия 2021 https://youtu.be/x7S1YrP8GOg
+* Виталий Фридман — Воркшоп (часть 2). Новые приключения во фронтенде, версия 2021 https://youtu.be/KkOsTHMTsfI
+* Александр Богачёв — Рефлексия в TypeScript https://youtu.be/sjtQyrfGeaU
+* Павел Черторогов — Революция в микрофронтендах, module federation, Webpack 5 https://youtu.be/pcY8-pDGLkI
+* Управление состоянием: Effector https://youtu.be/fdjc5ZPckNo
+* RND.JS #9: Сергей Белозёрцев. Reatom. Переосмысливая Redux. https://youtu.be/b14YQNswsTk
+* Recoil: State Management for Today's React https://youtu.be/_ISAA_Jt9kI
+* Страх и ненависть локализации в больших проектах https://youtu.be/UqJnodoV-OM?t=5435
+* Сергей Фетискин — Speak my language %app% https://youtu.be/nz-jeUp3UHE
