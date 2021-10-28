@@ -2,18 +2,22 @@
 
 ## Pool
 
+* "Uncle" Bob Martin — "The Future of Programming" https://www.youtube.com/watch?v=ecIWPzGEbFc&ab_channel=PaulStringer%27sMobileTech
+* Дмитрий Пацура — Архитектура React Native для JS-разработчика https://www.youtube.com/watch?v=v4MnR41SHZc
+* Ричч Хикки о случайно и вынужденной сложности при разарботке https://www.youtube.com/watch?v=eWbPLSJZ5Zw
+* Nicolò Ribaudo — @babel/how-to https://youtu.be/UeVq_U5obnE
 * Lucas Fernandes da Costa — Computability, types, tests, and why flat earthers are bad at QA https://youtu.be/SKBgrJg2mH4
 * Самый мягкий и пушистый путь в Machine Learning и Deep Neural Networks / Алексей Охрименко (Avito) https://youtu.be/BX2M8t5BA3s
 * Александр Коротаев — JS-битва: как я написал свой eval() https://youtu.be/TJ7TGk5WJ5k
 * 1+N and GraphQL - Matteo Collina https://youtu.be/SSj4BGkIBGo
+* Docker для фронтендера - Алексей Авдеев (Neuron.Digital) https://youtu.be/SMM3bsYyFls
+* Event-Driven Architecture: детали реализаций Event Loop - Вадим Горбачев (OpenWay) https://youtu.be/Zu18cMJGeqw
 * Артём Кобзарь — Хочу цифровые подписи на JavaScript https://youtu.be/JBuH4xuqQzA
 * Ujjwal Sharma — Tempus Fugit: A story of time https://youtu.be/3F2A708c1o0
 * Самое скучное решение: как выбирать технологии, когда ты уже не стартап / Илья Климов https://youtu.be/yDcwplt-vm8
 * Docker deep dive for JavaScript developers / Виктор Турский https://youtu.be/CgbijhDEAgs
 * 200 OK! Error Handling in GraphQL — Sasha Solomon @ GraphQL Conf 2019 https://youtu.be/A5-H6MtTvqk
-
-
-
+* Магия прототипного наследования — Виктор Вершанский - https://www.youtube.com/watch?v=JHDwO4sXXn0
 
 ## Watched
 
@@ -112,7 +116,7 @@
 * 08. Houdini CSS, который JavaScript – Никита Дубко https://youtu.be/yyVU-r9sRw8
 * State of Houdini (Chrome Dev Summit 2018) https://youtu.be/lK3OiJvwgSc
 * Знай свой JIT: ближе к машине / Андрей Мелихов - https://www.youtube.com/watch?v=cgquEDC0Ko4
-* JavaScript Engines: The Good Parts™ - Mathias Bynens & Benedikt Meurer - JSConf EU 2018 https://www.youtube.com/watch?v=5nmpokoRaZI 
+* JavaScript Engines: The Good Parts™ - Mathias Bynens & Benedikt Meurer - JSConf EU 2018 https://www.youtube.com/watch?v=5nmpokoRaZI
 * История про моделирование «по-быстрому» / Александр Прибыткин (МегаФон) https://www.youtube.com/watch?v=hQfglqE18Jo
 * Продвинутый TypeScript / Михаил Башуров (Syncro) https://youtu.be/m0uRxCCno00
 * Масштабируемая архитектура фронтенда — Роман Дворнов, Avito https://youtu.be/z9y6PNC2FL0
