@@ -19,6 +19,10 @@
 * 200 OK! Error Handling in GraphQL — Sasha Solomon @ GraphQL Conf 2019 https://youtu.be/A5-H6MtTvqk
 * Магия прототипного наследования — Виктор Вершанский - https://www.youtube.com/watch?v=JHDwO4sXXn0
 * Эволюция подходов к развитию мобильного банка Тинькофф/А.Поломодов - https://www.youtube.com/watch?v=6yB_DldPF88
+* Сергей Баранов — Многоликий DDD - https://www.youtube.com/watch?v=2WHarUW0PjI
+* New and Exciting Features in Node.js -  Lizz Parody \- https://www.youtube.com/watch?v=HssUpyhdInU
+* Transferable AbortController: The story of a Node.js performance - James Snell - https://www.youtube.com/watch?v=Pd1Q379NuyA
+
 ## Watched
 
 * 3. Git — инструмент для совместной работы, с нуля и до регламента в команде — Сергей Сергеев https://youtu.be/yDSs80lu3ak
