@@ -18,6 +18,7 @@
 * Docker deep dive for JavaScript developers / Виктор Турский https://youtu.be/CgbijhDEAgs
 * 200 OK! Error Handling in GraphQL — Sasha Solomon @ GraphQL Conf 2019 https://youtu.be/A5-H6MtTvqk
 * Магия прототипного наследования — Виктор Вершанский - https://www.youtube.com/watch?v=JHDwO4sXXn0
+* Сергей Баранов — Многоликий DDD - https://www.youtube.com/watch?v=2WHarUW0PjI
 
 ## Watched
 
