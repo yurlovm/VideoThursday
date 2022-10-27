@@ -18,7 +18,7 @@
 * Docker deep dive for JavaScript developers / Виктор Турский https://youtu.be/CgbijhDEAgs
 * 200 OK! Error Handling in GraphQL — Sasha Solomon @ GraphQL Conf 2019 https://youtu.be/A5-H6MtTvqk
 * Магия прототипного наследования — Виктор Вершанский - https://www.youtube.com/watch?v=JHDwO4sXXn0
-
+* Эволюция подходов к развитию мобильного банка Тинькофф/А.Поломодов - https://www.youtube.com/watch?v=6yB_DldPF88
 ## Watched
 
 * 3. Git — инструмент для совместной работы, с нуля и до регламента в команде — Сергей Сергеев https://youtu.be/yDSs80lu3ak
