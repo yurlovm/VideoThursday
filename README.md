@@ -22,6 +22,7 @@
 * Сергей Баранов — Многоликий DDD - https://www.youtube.com/watch?v=2WHarUW0PjI
 * New and Exciting Features in Node.js -  Lizz Parody \- https://www.youtube.com/watch?v=HssUpyhdInU
 * Transferable AbortController: The story of a Node.js performance - James Snell - https://www.youtube.com/watch?v=Pd1Q379NuyA
+* Как мы внедряли Е2Е-тесты и почему у нас ничего не вышло, Руслан Байгунусов https://www.youtube.com/watch?v=qDndak1N3gQ
 
 ## Watched
 
