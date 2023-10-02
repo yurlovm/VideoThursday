@@ -24,6 +24,7 @@
 * Transferable AbortController: The story of a Node.js performance - James Snell - https://www.youtube.com/watch?v=Pd1Q379NuyA
 * Ural Digital Weekend 2023 секция "Разработка" https://www.youtube.com/watch?v=xhHwK-6uyIo
 * Распутываем браузерные потоки, Полина Гуртовая https://www.youtube.com/watch?v=InDkFI_LwGM
+* Копаемся под капотом браузера, как работает event loop и compositing, Сергей Чикуенок https://www.youtube.com/watch?v=On2EWADF81Y
 
 ## Watched
 
