@@ -23,6 +23,9 @@
 * New and Exciting Features in Node.js -  Lizz Parody \- https://www.youtube.com/watch?v=HssUpyhdInU
 * Transferable AbortController: The story of a Node.js performance - James Snell - https://www.youtube.com/watch?v=Pd1Q379NuyA
 * Распутываем браузерные потоки, Полина Гуртовая https://www.youtube.com/watch?v=InDkFI_LwGM
+* Как мы внедряли Е2Е-тесты и почему у нас ничего не вышло, Руслан Байгунусов https://www.youtube.com/watch?v=qDndak1N3gQ
+* Копаемся под капотом браузера, как работает event loop и compositing, Сергей Чикуенок https://www.youtube.com/watch?v=On2EWADF81Y
+* Ural Digital Weekend 2023 секция "Разработка" https://www.youtube.com/watch?v=xhHwK-6uyIo
 
 ## Watched
 
